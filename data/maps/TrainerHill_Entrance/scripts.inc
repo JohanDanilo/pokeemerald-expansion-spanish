@@ -287,27 +287,27 @@ TrainerHill_Entrance_Pokemart_Expanded:
 	pokemartlistend
 
 TrainerHill_Entrance_Text_StillGettingReady:
-	.string "This is the TRAINER HILL where\n"
-	.string "you may enjoy tag battles with many\l"
-	.string "TRAINERS.\p"
-	.string "Unfortunately, we're still getting\n"
-	.string "things ready. Please come back later!$"
+        .string "Esta es la COLINA ENTRENADOR, donde\n"
+        .string "podrás disfrutar de combates junto a\l"
+        .string "una gran variedad de ENTRENADORES.\p"
+        .string "Por desgracia, aún estamos preparando\n"
+        .string "todo. ¡Por favor, vuelve más tarde!$"
 
 TrainerHill_Entrance_Text_WelcomeToTrainerHill:
-	.string "Welcome!\p"
-	.string "This is the TRAINER HILL where\n"
-	.string "you may enjoy tag battles with many\l"
-	.string "TRAINERS!$"
+        .string "¡Te damos la bienvenida!\p"
+        .string "¡Esta es la COLINA ENTRENADOR, donde\n"
+        .string "podrás disfrutar de combates junto a\n"
+        .string "muchos ENTRENADORES!$"
 
 TrainerHill_Entrance_Text_SaveGameBeforeEnter:
-	.string "Is this your first visit here?\p"
-	.string "Before you enter, please save\n"
-	.string "your game.$"
+        .string "¿Es esta tu primera visita aquí?\p"
+        .string "Antes de entrar, guarda tu partida\n"
+        .string "por favor.$"
 
 TrainerHill_Entrance_Text_TrainersUpToFloorX:
-	.string "Let's see…\n"
-	.string "The TRAINERS here now are…\p"
-	.string "Up to floor no. {STR_VAR_1}.$"
+        .string "A ver…\n"
+        .string "Los ENTRENADORES actuales están…\p"
+        .string "Hasta el piso n.º {STR_VAR_1}.$"
 
 TrainerHill_Entrance_Text_TrainersInEveryRoom:
 	.string "Let's see…\n"

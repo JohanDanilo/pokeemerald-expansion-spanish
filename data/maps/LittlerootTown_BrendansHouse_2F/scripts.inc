@@ -270,32 +270,31 @@ PlayersHouse_2F_EventScript_GameCube::
 	end
 
 PlayersHouse_2F_Text_ClockIsStopped:
-	.string "The clock is stopped…\p"
-	.string "Better set it and start it!$"
+        .string "El reloj está parado...\p"
+        .string "¡Será mejor ponerlo en hora!$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-	.string "MOM: {PLAYER}, how do you like your\n"
-	.string "new room?\p"
-	.string "Good! Everything's put away neatly!\p"
-	.string "They finished moving everything in\n"
-	.string "downstairs, too.\p"
-	.string "POKéMON movers are so convenient!\p"
-	.string "Oh, you should make sure that\n"
-	.string "everything's all there on your desk.$"
+        .string "MAMÁ: {PLAYER}, ¿qué tal tu cuarto?\p"
+        .string "¡Qué bien! ¡Está todo muy ordenado!\p"
+        .string "También han terminado de traer las\n"
+        .string "cosas abajo.\p"
+        .string "¡Los de la mudanza son eficaces!\p"
+        .string "Ah, echa un vistazo al escritorio para\n"
+        .string "ver si está todo en su sitio.$"
 
 PlayersHouse_2F_Text_Notebook:
-	.string "{PLAYER} flipped open the notebook.\p"
-	.string "ADVENTURE RULE NO. 1\n"
-	.string "Open the MENU with START.\p"
-	.string "ADVENTURE RULE NO. 2\n"
-	.string "Record your progress with SAVE.\p"
-	.string "The remaining pages are blank…$"
+        .string "{PLAYER} abrió el cuaderno.\p"
+        .string "REGLA DE AVENTURA NÚM. 1\n"
+        .string "Abre el MENÚ con START.\p"
+        .string "REGLA DE AVENTURA NÚM. 2\n"
+        .string "Guarda tus avances con GUARDAR.\p"
+        .string "El resto de páginas están vacías...$"
 
 Common_Text_LookCloserAtMap:
-	.string "{PLAYER} took a closer look at the\n"
-	.string "{REGION} region map.$"
+        .string "{PLAYER} miró con atención el mapa\n"
+        .string "de la región de {REGION}.$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
-	.string "It's a Nintendo GameCube.\p"
-	.string "A Game Boy Advance is connected to\n"
-	.string "serve as the Controller.$"
+        .string "Es una Nintendo GameCube.\p"
+        .string "Tiene conectada una Game Boy Advance\n"
+        .string "para usarla como mando.$"

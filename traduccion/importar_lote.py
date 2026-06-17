@@ -38,10 +38,10 @@ for entrada in lote:
     if id_num not in indice:
         continue
 
+    # MODIFICACIÓN: Ahora sí importamos las líneas formateadas para el inyector
     indice[id_num]["spanish"] = entrada["spanish"]
-
+    indice[id_num]["spanish_lines"] = entrada["spanish_lines"]
     indice[id_num]["translated"] = entrada["translated"]
-
     indice[id_num]["reviewed"] = entrada["reviewed"]
 
     actualizados += 1
@@ -60,5 +60,5 @@ with open(
     )
 
 print(
-    f"Entradas actualizadas: {actualizados}"
+    f"Entradas actualizadas correctamente: {actualizados}"
 )

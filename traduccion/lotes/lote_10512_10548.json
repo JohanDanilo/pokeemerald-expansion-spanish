@@ -1,0 +1,1005 @@
+[
+  {
+    "id_num": 10512,
+    "id": "PlayersHouse_1F_Text_IsntItNiceInHere",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: See, {PLAYER}?\\nIsn't it nice in here, too?$",
+    "english_lines": [
+      "MOM: See, {PLAYER}?\\n",
+      "Isn't it nice in here, too?$"
+    ],
+    "spanish": "MAMÁ: ¿Ves, {PLAYER}?\\n¿A que se está bien aquí también?$",
+    "spanish_lines": [
+      "MAMÁ: ¿Ves, {PLAYER}?\\n",
+      "¿A que se está bien aquí también?$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 49,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10513,
+    "id": "PlayersHouse_1F_Text_MoversPokemonGoSetClock",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "The mover's POKéMON do all the work\\nof moving us in and cleaning up after.\\lThis is so convenient!\\p{PLAYER}, your room is upstairs.\\nGo check it out, dear!\\pDAD bought you a new clock to mark\\nour move here.\\lDon't forget to set it!$",
+    "english_lines": [
+      "The mover's POKéMON do all the work\\n",
+      "of moving us in and cleaning up after.\\l",
+      "This is so convenient!\\p",
+      "{PLAYER}, your room is upstairs.\\n",
+      "Go check it out, dear!\\p",
+      "DAD bought you a new clock to mark\\n",
+      "our move here.\\l",
+      "Don't forget to set it!$"
+    ],
+    "spanish": "Los POKéMON de la mudanza lo\\nhacen todo: colocar y limpiar.\\l¡Es comodísimo!\\p{PLAYER}, tu cuarto está arriba.\\n¡Ve a echarle un ojo, cielo!\\pPAPÁ te compró un reloj nuevo por\\nnuestra mudanza aquí.\\l¡No te olvides de ponerlo en hora!$",
+    "spanish_lines": [
+      "Los POKéMON de la mudanza lo\\n",
+      "hacen todo: colocar y limpiar.\\l",
+      "¡Es comodísimo!\\p",
+      "{PLAYER}, tu cuarto está arriba.\\n",
+      "¡Ve a echarle un ojo, cielo!\\p",
+      "PAPÁ te compró un reloj nuevo por\\n",
+      "nuestra mudanza aquí.\\l",
+      "¡No te olvides de ponerlo en hora!$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 235,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10514,
+    "id": "PlayersHouse_1F_Text_ArentYouInterestedInRoom",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: Well, {PLAYER}?\\pAren't you interested in seeing your\\nvery own room?$",
+    "english_lines": [
+      "MOM: Well, {PLAYER}?\\p",
+      "Aren't you interested in seeing your\\n",
+      "very own room?$"
+    ],
+    "spanish": "MAMÁ: Y bien, {PLAYER}?\\p¿No tienes ganas de ver tu\\npropia habitación?$",
+    "spanish_lines": [
+      "MAMÁ: Y bien, {PLAYER}?\\p",
+      "¿No tienes ganas de ver tu\\n",
+      "propia habitación?$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 75,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10515,
+    "id": "PlayersHouse_1F_Text_GoSetTheClock",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: {PLAYER}.\\pGo set the clock in your room, honey.$",
+    "english_lines": [
+      "MOM: {PLAYER}.\\p",
+      "Go set the clock in your room, honey.$"
+    ],
+    "spanish": "MAMÁ: {PLAYER}.\\pVe a poner en hora el reloj, cielo.$",
+    "spanish_lines": [
+      "MAMÁ: {PLAYER}.\\p",
+      "Ve a poner en hora el reloj, cielo.$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\p"
+    ],
+    "english_length": 54,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10516,
+    "id": "PlayersHouse_1F_Text_OhComeQuickly",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: Oh! {PLAYER}, {PLAYER}!\\nQuick! Come quickly!$",
+    "english_lines": [
+      "MOM: Oh! {PLAYER}, {PLAYER}!\\n",
+      "Quick! Come quickly!$"
+    ],
+    "spanish": "MAMÁ: ¡Oh! ¡{PLAYER}, {PLAYER}!\\n¡Rápido! ¡Ven corriendo!$",
+    "spanish_lines": [
+      "MAMÁ: ¡Oh! ¡{PLAYER}, {PLAYER}!\\n",
+      "¡Rápido! ¡Ven corriendo!$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 51,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10517,
+    "id": "PlayersHouse_1F_Text_MaybeDadWillBeOn",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: Look! It's PETALBURG GYM!\\nMaybe DAD will be on!$",
+    "english_lines": [
+      "MOM: Look! It's PETALBURG GYM!\\n",
+      "Maybe DAD will be on!$"
+    ],
+    "spanish": "MAMÁ: ¡Mira! ¡El GIMNASIO PETALIA!\\n¡Igual sale tu PAPÁ!$",
+    "spanish_lines": [
+      "MAMÁ: ¡Mira! ¡El GIMNASIO PETALIA!\\n",
+      "¡Igual sale tu PAPÁ!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 54,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10518,
+    "id": "PlayersHouse_1F_Text_ItsOverWeMissedHim",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: Oh… It's over.\\pI think DAD was on, but we missed him.\\nToo bad.$",
+    "english_lines": [
+      "MOM: Oh… It's over.\\p",
+      "I think DAD was on, but we missed him.\\n",
+      "Too bad.$"
+    ],
+    "spanish": "MAMÁ: Oh... Ya ha terminado.\\pCreo que salía PAPÁ, pero no llegamos\\na tiempo. Qué lástima.$",
+    "spanish_lines": [
+      "MAMÁ: Oh... Ya ha terminado.\\p",
+      "Creo que salía PAPÁ, pero no llegamos\\n",
+      "a tiempo. Qué lástima.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 70,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10519,
+    "id": "PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "Oh, yes.\\nOne of DAD's friends lives in town.\\pPROF. BIRCH is his name.\\pHe lives right next door, so you should\\ngo over and introduce yourself.$",
+    "english_lines": [
+      "Oh, yes.\\n",
+      "One of DAD's friends lives in town.\\p",
+      "PROF. BIRCH is his name.\\p",
+      "He lives right next door, so you should\\n",
+      "go over and introduce yourself.$"
+    ],
+    "spanish": "Ah, es verdad.\\nUn amigo de PAPÁ vive en el pueblo.\\pSe llama PROFESOR ABEDUL.\\pVive justo al lado, así que deberías\\npasarte a presentarte.$",
+    "spanish_lines": [
+      "Ah, es verdad.\\n",
+      "Un amigo de PAPÁ vive en el pueblo.\\p",
+      "Se llama PROFESOR ABEDUL.\\p",
+      "Vive justo al lado, así que deberías\\n",
+      "pasarte a presentarte.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 146,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10520,
+    "id": "PlayersHouse_1F_Text_SeeYouHoney",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: See you, honey!$",
+    "english_lines": [
+      "MOM: See you, honey!$"
+    ],
+    "spanish": "MAMÁ: ¡Nos vemos, cielo!$",
+    "spanish_lines": [
+      "MAMÁ: ¡Nos vemos, cielo!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$"
+    ],
+    "english_length": 21,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10521,
+    "id": "PlayersHouse_1F_Text_DidYouMeetProfBirch",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: Did you introduce yourself to\\nPROF. BIRCH?$",
+    "english_lines": [
+      "MOM: Did you introduce yourself to\\n",
+      "PROF. BIRCH?$"
+    ],
+    "spanish": "MAMÁ: ¿Te has presentado ya al\\nPROFESOR ABEDUL?$",
+    "spanish_lines": [
+      "MAMÁ: ¿Te has presentado ya al\\n",
+      "PROFESOR ABEDUL?$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 49,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10522,
+    "id": "PlayersHouse_1F_Text_YouShouldRestABit",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: How are you doing, {PLAYER}?\\nYou look a little tired.\\pI think you should rest a bit.$",
+    "english_lines": [
+      "MOM: How are you doing, {PLAYER}?\\n",
+      "You look a little tired.\\p",
+      "I think you should rest a bit.$"
+    ],
+    "spanish": "MAMÁ: ¿Cómo estás, {PLAYER}?\\nTe veo un poco cansado.\\pCreo que deberías descansar un poco.$",
+    "spanish_lines": [
+      "MAMÁ: ¿Cómo estás, {PLAYER}?\\n",
+      "Te veo un poco cansado.\\p",
+      "Creo que deberías descansar un poco.$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 92,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10523,
+    "id": "PlayersHouse_1F_Text_TakeCareHoney",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: Take care, honey!$",
+    "english_lines": [
+      "MOM: Take care, honey!$"
+    ],
+    "spanish": "MAMÁ: ¡Cuídate mucho, cielo!$",
+    "spanish_lines": [
+      "MAMÁ: ¡Cuídate mucho, cielo!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$"
+    ],
+    "english_length": 23,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10524,
+    "id": "PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: Oh? Did DAD give you that BADGE?\\pThen here's something from your MOM!$",
+    "english_lines": [
+      "MOM: Oh? Did DAD give you that BADGE?\\p",
+      "Then here's something from your MOM!$"
+    ],
+    "spanish": "MAMÁ: ¿PAPÁ te dio esa MEDALLA?\\p¡Pues toma esto de parte de MAMÁ!$",
+    "spanish_lines": [
+      "MAMÁ: ¿PAPÁ te dio esa MEDALLA?\\p",
+      "¡Pues toma esto de parte de MAMÁ!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\p"
+    ],
+    "english_length": 76,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10525,
+    "id": "PlayersHouse_1F_Text_DontPushYourselfTooHard",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "Don't push yourself too hard, dear.\\nYou can always come home.\\pGo for it, honey!$",
+    "english_lines": [
+      "Don't push yourself too hard, dear.\\n",
+      "You can always come home.\\p",
+      "Go for it, honey!$"
+    ],
+    "spanish": "No te esfuerces demasiado, cielo.\\nRecuerda que siempre puedes volver.\\p¡Ánimo, carariño!$",
+    "spanish_lines": [
+      "No te esfuerces demasiado, cielo.\\n",
+      "Recuerda que siempre puedes volver.\\p",
+      "¡Ánimo, carariño!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 82,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10526,
+    "id": "PlayersHouse_1F_Text_IsThatAPokenav",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: What is that, honey? A POKéNAV?\\nSomeone from DEVON gave it to you?\\pWell, honey, how about registering\\nyour mom?\\p… … …$",
+    "english_lines": [
+      "MOM: What is that, honey? A POKéNAV?\\n",
+      "Someone from DEVON gave it to you?\\p",
+      "Well, honey, how about registering\\n",
+      "your mom?\\p",
+      "… … …$"
+    ],
+    "spanish": "MAMÁ: ¿Qué es eso, cielo? ¿Un POKéNAV?\\n¿Te lo ha regalado alguien de DEVON?\\pA ver, cielo, ¿por qué no registras\\na tu madre?\\p... ... ...$",
+    "spanish_lines": [
+      "MAMÁ: ¿Qué es eso, cielo? ¿Un POKéNAV?\\n",
+      "¿Te lo ha regalado alguien de DEVON?\\p",
+      "A ver, cielo, ¿por qué no registras\\n",
+      "a tu madre?\\p",
+      "... ... ...$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 127,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10527,
+    "id": "PlayersHouse_1F_Text_RegisteredMom",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "Registered MOM\\nin the POKéNAV.$",
+    "english_lines": [
+      "Registered MOM\\n",
+      "in the POKéNAV.$"
+    ],
+    "spanish": "Registrada MAMÁ\\nen el POKéNAV.$",
+    "spanish_lines": [
+      "Registrada MAMÁ\\n",
+      "en el POKéNAV.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 32,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10528,
+    "id": "PlayersHouse_1F_Text_Vigoroth1",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "Fugiiiiih!$",
+    "english_lines": [
+      "Fugiiiiih!$"
+    ],
+    "spanish": "¡Fugiiiiih!$",
+    "spanish_lines": [
+      "¡Fugiiiiih!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$"
+    ],
+    "english_length": 11,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10529,
+    "id": "PlayersHouse_1F_Text_Vigoroth2",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "Huggoh, uggo uggo…$",
+    "english_lines": [
+      "Huggoh, uggo uggo…$"
+    ],
+    "spanish": "Juggoh, uggo uggo...$",
+    "spanish_lines": [
+      "Juggoh, uggo uggo...$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$"
+    ],
+    "english_length": 19,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10530,
+    "id": "PlayersHouse_1F_Text_ReportFromPetalburgGym",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "INTERVIEWER: …We brought you this\\nreport from in front of PETALBURG GYM.$",
+    "english_lines": [
+      "INTERVIEWER: …We brought you this\\n",
+      "report from in front of PETALBURG GYM.$"
+    ],
+    "spanish": "REPORTERO: ...Les ofrecemos este\\nreportaje desde el GIMNASIO PETALIA.$",
+    "spanish_lines": [
+      "REPORTERO: ...Les ofrecemos este\\n",
+      "reportaje desde el GIMNASIO PETALIA.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 74,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10531,
+    "id": "PlayersHouse_1F_Text_TheresAMovieOnTV",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "There is a movie on TV.\\pTwo men are dancing on a big piano\\nkeyboard.\\pBetter get going!$",
+    "english_lines": [
+      "There is a movie on TV.\\p",
+      "Two men are dancing on a big piano\\n",
+      "keyboard.\\p",
+      "Better get going!$"
+    ],
+    "spanish": "Están echando una película en la TV.\\pDos hombres bailan sobre el teclado\\nde un piano gigante.\\p¡Será mejor ponerse en marcha!$",
+    "spanish_lines": [
+      "Están echando una película en la TV.\\p",
+      "Dos hombres bailan sobre el teclado\\n",
+      "de un piano gigante.\\p",
+      "¡Será mejor ponerse en marcha!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 90,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10532,
+    "id": "PlayersHouse_1F_Text_RunningShoesManual",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "It's the instruction booklet for the\\nRUNNING SHOES.\\p“Press the B Button to run while\\nwearing your RUNNING SHOES.\\p“Lace up your RUNNING SHOES and hit\\nthe road running!”$",
+    "english_lines": [
+      "It's the instruction booklet for the\\n",
+      "RUNNING SHOES.\\p",
+      "“Press the B Button to run while\\n",
+      "wearing your RUNNING SHOES.\\p",
+      "“Lace up your RUNNING SHOES and hit\\n",
+      "the road running!”$"
+    ],
+    "spanish": "Es el manual de instrucciones para las\\nZAPATILLAS DE CORRER.\\pMantén pulsado el Botón B para\\ncorrer llevando tus ZAPATILLAS.\\p¡Átate bien las ZAPATILLAS DE\\nCORRER y lánzate a la carretera!$",
+    "spanish_lines": [
+      "Es el manual de instrucciones para las\\n",
+      "ZAPATILLAS DE CORRER.\\p",
+      "Mantén pulsado el Botón B para\\n",
+      "correr llevando tus ZAPATILLAS.\\p",
+      "¡Átate bien las ZAPATILLAS DE\\n",
+      "CORRER y lánzate a la carretera!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 173,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10533,
+    "id": "PlayersHouse_1F_Text_TicketFromBrineyCameForYou",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "DAD: Hm?\\pHey, it's {PLAYER}!\\pIt's been a while since I saw you,\\nbut you look…stronger, somehow.\\pThat's the impression I get.\\nBut your old man hasn't given up yet!\\pOh, yes, I have something for you.\\nThis came to you from someone named\\lMR. BRINEY.$",
+    "english_lines": [
+      "DAD: Hm?\\p",
+      "Hey, it's {PLAYER}!\\p",
+      "It's been a while since I saw you,\\n",
+      "but you look…stronger, somehow.\\p",
+      "That's the impression I get.\\n",
+      "But your old man hasn't given up yet!\\p",
+      "Oh, yes, I have something for you.\\n",
+      "This came to you from someone named\\l",
+      "MR. BRINEY.$"
+    ],
+    "spanish": "PAPÁ: ¿Hm?\\p¡Anda, si es {PLAYER}!\\pHacía tiempo que no te veía, pero te\\nnoto... más fuerte, no sé por qué.\\pEsa es la impresión que me da.\\n¡Pero tu viejo no se rinde todavía!\\pAh, sí, tengo algo para ti.\\nTe lo manda un hombre llamado\\lSR. ARENQUE.$",
+    "spanish_lines": [
+      "PAPÁ: ¿Hm?\\p",
+      "¡Anda, si es {PLAYER}!\\p",
+      "Hacía tiempo que no te veía, pero te\\n",
+      "noto... más fuerte, no sé por qué.\\p",
+      "Esa es la impresión que me da.\\n",
+      "¡Pero tu viejo no se rinde todavía!\\p",
+      "Ah, sí, tengo algo para ti.\\n",
+      "Te lo manda un hombre llamado\\l",
+      "SR. ARENQUE.$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 254,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10534,
+    "id": "PlayersHouse_1F_Text_PortsInSlateportLilycove",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "DAD: Hm, a TICKET for a ferry?\\pIf I recall, there are ferry ports in\\nSLATEPORT and LILYCOVE.$",
+    "english_lines": [
+      "DAD: Hm, a TICKET for a ferry?\\p",
+      "If I recall, there are ferry ports in\\n",
+      "SLATEPORT and LILYCOVE.$"
+    ],
+    "spanish": "PAPÁ: Hm, ¿un TICKET para el ferry?\\pSi mal no recuerdo, hay terminales en\\nCIUDAD PORTUAL y CIUDAD CALAGUA.$",
+    "spanish_lines": [
+      "PAPÁ: Hm, ¿un TICKET para el ferry?\\p",
+      "Si mal no recuerdo, hay terminales en\\n",
+      "CIUDAD PORTUAL y CIUDAD CALAGUA.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 95,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10535,
+    "id": "PlayersHouse_1F_Text_BetterGetBackToGym",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "I'd better get back to PETALBURG GYM.\\pMOM, thanks for looking after the house\\nwhile I'm away.$",
+    "english_lines": [
+      "I'd better get back to PETALBURG GYM.\\p",
+      "MOM, thanks for looking after the house\\n",
+      "while I'm away.$"
+    ],
+    "spanish": "Debería volver al GIMNASIO PETALIA.\\pMAMÁ, gracias por cuidar de la casa\\nmientras estoy fuera.$",
+    "spanish_lines": [
+      "Debería volver al GIMNASIO PETALIA.\\p",
+      "MAMÁ, gracias por cuidar de la casa\\n",
+      "mientras estoy fuera.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 96,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10536,
+    "id": "PlayersHouse_1F_Text_DadShouldStayLonger",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: That DAD of yours…\\pHe comes home for the first time in a\\nwhile, but all he talks about is POKéMON.\\pHe should relax and stay a little longer.$",
+    "english_lines": [
+      "MOM: That DAD of yours…\\p",
+      "He comes home for the first time in a\\n",
+      "while, but all he talks about is POKéMON.\\p",
+      "He should relax and stay a little longer.$"
+    ],
+    "spanish": "MAMÁ: Tu padre es único...\\pHacía siglos que no venía, pero solo\\nsabe hablar de POKéMON.\\pDebería relajarse y quedarse más.$",
+    "spanish_lines": [
+      "MAMÁ: Tu padre es único...\\p",
+      "Hacía siglos que no venía, pero solo\\n",
+      "sabe hablar de POKéMON.\\p",
+      "Debería relajarse y quedarse más.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 149,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10537,
+    "id": "PlayersHouse_1F_Text_IsThatABreakingStory",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: Is that a breaking news story?$",
+    "english_lines": [
+      "MOM: Is that a breaking news story?$"
+    ],
+    "spanish": "MAMÁ: ¿Es una noticia de última hora?$",
+    "spanish_lines": [
+      "MAMÁ: ¿Es una noticia de última hora?$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$"
+    ],
+    "english_length": 36,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10538,
+    "id": "PlayersHouse_1F_Text_LatiEmergencyNewsFlash",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "We bring you this emergency\\nnews flash!\\pIn various HOENN locales, there have\\nbeen reports of a BZZT…colored\\lPOKéMON in flight.\\pThe identity of this POKéMON is\\ncurrently unknown.\\pWe now return you to the regular\\nmovie program.$",
+    "english_lines": [
+      "We bring you this emergency\\n",
+      "news flash!\\p",
+      "In various HOENN locales, there have\\n",
+      "been reports of a BZZT…colored\\l",
+      "POKéMON in flight.\\p",
+      "The identity of this POKéMON is\\n",
+      "currently unknown.\\p",
+      "We now return you to the regular\\n",
+      "movie program.$"
+    ],
+    "spanish": "¡Les interrumpimos para traerles una\\nnoticia de última hora!\\pEn varias zonas de HOENN, se ha\\navistado a un POKéMON volador\\lde color... BZZZT...\\pLa identidad de este POKéMON sigue\\nsiendo un misterio.\\pLes dejamos de nuevo con nuestra\\nprogramación habitual.$",
+    "spanish_lines": [
+      "¡Les interrumpimos para traerles una\\n",
+      "noticia de última hora!\\p",
+      "En varias zonas de HOENN, se ha\\n",
+      "avistado a un POKéMON volador\\l",
+      "de color... BZZZT...\\p",
+      "La identidad de este POKéMON sigue\\n",
+      "siendo un misterio.\\p",
+      "Les dejamos de nuevo con nuestra\\n",
+      "programación habitual.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 234,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10539,
+    "id": "PlayersHouse_1F_Text_WhatColorDidTheySay",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: {PLAYER}, did you catch that?\\pWhat color did the announcer say\\nthat POKéMON was?$",
+    "english_lines": [
+      "MOM: {PLAYER}, did you catch that?\\p",
+      "What color did the announcer say\\n",
+      "that POKéMON was?$"
+    ],
+    "spanish": "MAMÁ: {PLAYER}, ¿has oído eso?\\p¿De qué color ha dicho el presentador\\nque era ese POKéMON?$",
+    "spanish_lines": [
+      "MAMÁ: {PLAYER}, ¿has oído eso?\\p",
+      "¿De qué color ha dicho el presentador\\n",
+      "que era ese POKéMON?$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 88,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10540,
+    "id": "PlayersHouse_1F_Text_StillUnknownPokemon",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc",
+    "english": "MOM: Well, isn't that something!\\nThere are still unknown POKéMON.$",
+    "english_lines": [
+      "MOM: Well, isn't that something!\\n",
+      "There are still unknown POKéMON.$"
+    ],
+    "spanish": "MAMÁ: Vaya, ¡qué cosas!\\nTodavía quedan POKéMON por descubrir.$",
+    "spanish_lines": [
+      "MAMÁ: Vaya, ¡qué cosas!\\n",
+      "Todavía quedan POKéMON por descubrir.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 67,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10541,
+    "id": "SlateportCity_Mart_Text_SomeItemsOnlyAtMart",
+    "archivo": "data/maps/SlateportCity_Mart/scripts.inc",
+    "english": "The MARKET does have some interesting\\nmerchandise.\\pBut there are some items you can only\\nget at a POKéMON MART.$",
+    "english_lines": [
+      "The MARKET does have some interesting\\n",
+      "merchandise.\\p",
+      "But there are some items you can only\\n",
+      "get at a POKéMON MART.$"
+    ],
+    "spanish": "En el MERCADO hay cosas bastante\\ninteresantes.\\pPero hay objetos que solo se venden en\\nlas TIENDAS POKéMON.$",
+    "spanish_lines": [
+      "En el MERCADO hay cosas bastante\\n",
+      "interesantes.\\p",
+      "Pero hay objetos que solo se venden en\\n",
+      "las TIENDAS POKéMON.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 115,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10542,
+    "id": "SlateportCity_Mart_Text_GreatBallIsBetter",
+    "archivo": "data/maps/SlateportCity_Mart/scripts.inc",
+    "english": "A GREAT BALL is better than a POKé BALL\\nat catching POKéMON.\\pWith this, I should be able to get that\\nelusive POKéMON…$",
+    "english_lines": [
+      "A GREAT BALL is better than a POKé BALL\\n",
+      "at catching POKéMON.\\p",
+      "With this, I should be able to get that\\n",
+      "elusive POKéMON…$"
+    ],
+    "spanish": "Una SÚPER BALL es mucho mejor que una\\nPOKé BALL para atrapar POKéMON.\\pCon esto, seguro que atrapo a ese\\nPOKéMON tan esquivo...$",
+    "spanish_lines": [
+      "Una SÚPER BALL es mucho mejor que una\\n",
+      "POKé BALL para atrapar POKéMON.\\p",
+      "Con esto, seguro que atrapo a ese\\n",
+      "POKéMON tan esquivo...$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 121,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10543,
+    "id": "OldaleTown_House1_Text_LeftPokemonGoesOutFirst",
+    "archivo": "data/maps/OldaleTown_House1/scripts.inc",
+    "english": "When a POKéMON battle starts, the one\\nat the left of the list goes out first.\\pSo, when you get more POKéMON in your\\nparty, try switching around the order\\lof your POKéMON.\\pIt could give you an advantage.$",
+    "english_lines": [
+      "When a POKéMON battle starts, the one\\n",
+      "at the left of the list goes out first.\\p",
+      "So, when you get more POKéMON in your\\n",
+      "party, try switching around the order\\l",
+      "of your POKéMON.\\p",
+      "It could give you an advantage.$"
+    ],
+    "spanish": "Al combatir, el POKéMON que esté el\\nprimero de la lista saldrá primero.\\pAsí que, cuando tengas más POKéMON,\\nprueba a cambiar el orden de tu\\lequipo.\\pPodría darte una gran ventaja.$",
+    "spanish_lines": [
+      "Al combatir, el POKéMON que esté el\\n",
+      "primero de la lista saldrá primero.\\p",
+      "Así que, cuando tengas más POKéMON,\\n",
+      "prueba a cambiar el orden de tu\\l",
+      "equipo.\\p",
+      "Podría darte una gran ventaja.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 208,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10544,
+    "id": "PlayersHouse_2F_Text_ClockIsStopped",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_2F/scripts.inc",
+    "english": "The clock is stopped…\\pBetter set it and start it!$",
+    "english_lines": [
+      "The clock is stopped…\\p",
+      "Better set it and start it!$"
+    ],
+    "spanish": "El reloj está parado...\\p¡Será mejor ponerlo en hora!$",
+    "spanish_lines": [
+      "El reloj está parado...\\p",
+      "¡Será mejor ponerlo en hora!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\p"
+    ],
+    "english_length": 51,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10545,
+    "id": "PlayersHouse_2F_Text_HowDoYouLikeYourRoom",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_2F/scripts.inc",
+    "english": "MOM: {PLAYER}, how do you like your\\nnew room?\\pGood! Everything's put away neatly!\\pThey finished moving everything in\\ndownstairs, too.\\pPOKéMON movers are so convenient!\\pOh, you should make sure that\\neverything's all there on your desk.$",
+    "english_lines": [
+      "MOM: {PLAYER}, how do you like your\\n",
+      "new room?\\p",
+      "Good! Everything's put away neatly!\\p",
+      "They finished moving everything in\\n",
+      "downstairs, too.\\p",
+      "POKéMON movers are so convenient!\\p",
+      "Oh, you should make sure that\\n",
+      "everything's all there on your desk.$"
+    ],
+    "spanish": "MAMÁ: {PLAYER}, ¿qué tal tu cuarto?\\p¡Qué bien! ¡Está todo muy ordenado!\\pTambién han terminado de traer las\\ncosas abajo.\\p¡Los de la mudanza son eficaces!\\pAh, echa un vistazo al escritorio para\\nver si está todo en su sitio.$",
+    "spanish_lines": [
+      "MAMÁ: {PLAYER}, ¿qué tal tu cuarto?\\p",
+      "¡Qué bien! ¡Está todo muy ordenado!\\p",
+      "También han terminado de traer las\\n",
+      "cosas abajo.\\p",
+      "¡Los de la mudanza son eficaces!\\p",
+      "Ah, echa un vistazo al escritorio para\\n",
+      "ver si está todo en su sitio.$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 242,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10546,
+    "id": "PlayersHouse_2F_Text_Notebook",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_2F/scripts.inc",
+    "english": "{PLAYER} flipped open the notebook.\\pADVENTURE RULE NO. 1\\nOpen the MENU with START.\\pADVENTURE RULE NO. 2\\nRecord your progress with SAVE.\\pThe remaining pages are blank…$",
+    "english_lines": [
+      "{PLAYER} flipped open the notebook.\\p",
+      "ADVENTURE RULE NO. 1\\n",
+      "Open the MENU with START.\\p",
+      "ADVENTURE RULE NO. 2\\n",
+      "Record your progress with SAVE.\\p",
+      "The remaining pages are blank…$"
+    ],
+    "spanish": "{PLAYER} abrió el cuaderno.\\pREGLA DE AVENTURA NÚM. 1\\nAbre el MENÚ con START.\\pREGLA DE AVENTURA NÚM. 2\\nGuarda tus avances con GUARDAR.\\pEl resto de páginas están vacías...$",
+    "spanish_lines": [
+      "{PLAYER} abrió el cuaderno.\\p",
+      "REGLA DE AVENTURA NÚM. 1\\n",
+      "Abre el MENÚ con START.\\p",
+      "REGLA DE AVENTURA NÚM. 2\\n",
+      "Guarda tus avances con GUARDAR.\\p",
+      "El resto de páginas están vacías...$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 172,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10547,
+    "id": "Common_Text_LookCloserAtMap",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_2F/scripts.inc",
+    "english": "{PLAYER} took a closer look at the\\n{REGION} region map.$",
+    "english_lines": [
+      "{PLAYER} took a closer look at the\\n",
+      "{REGION} region map.$"
+    ],
+    "spanish": "{PLAYER} miró con atención el mapa\\nde la región de {REGION}.$",
+    "spanish_lines": [
+      "{PLAYER} miró con atención el mapa\\n",
+      "de la región de {REGION}.$"
+    ],
+    "variables": [
+      "{PLAYER}",
+      "{REGION}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 57,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 10548,
+    "id": "PlayersHouse_2F_Text_ItsAGameCube",
+    "archivo": "data/maps/LittlerootTown_BrendansHouse_2F/scripts.inc",
+    "english": "It's a Nintendo GameCube.\\pA Game Boy Advance is connected to\\nserve as the Controller.$",
+    "english_lines": [
+      "It's a Nintendo GameCube.\\p",
+      "A Game Boy Advance is connected to\\n",
+      "serve as the Controller.$"
+    ],
+    "spanish": "Es una Nintendo GameCube.\\pTiene conectada una Game Boy Advance\\npara usarla como mando.$",
+    "spanish_lines": [
+      "Es una Nintendo GameCube.\\p",
+      "Tiene conectada una Game Boy Advance\\n",
+      "para usarla como mando.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 88,
+    "translated": true,
+    "reviewed": true
+  }
+]

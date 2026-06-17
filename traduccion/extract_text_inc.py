@@ -3,10 +3,11 @@ import re
 import json
 from collections import Counter
 
-CARPETA = "data/text"
+# MODIFICACIÓN CLÍTICA: Ahora escaneamos TODO data/ y TODO src/ igual que tu grep
+CARPETAS = ["data", "src"]
 
 patron_id = re.compile(r"^\s*([A-Za-z0-9_]+):{1,2}\s*$")
-patron_string = re.compile(r'\.string\s+"(.*)"')
+patron_string = re.compile(r'\.string\s+\"(.*)\"')
 
 resultados = []
 contador_global = 1
@@ -63,51 +64,56 @@ def guardar_texto(identificador, ruta, lineas_texto):
     contador_global += 1
 
 
-for raiz, _, archivos in os.walk(CARPETA):
+for carpeta_base in CARPETAS:
+    if not os.path.exists(carpeta_base):
+        continue
 
-    archivos.sort()
+    for raiz, _, archivos in os.walk(carpeta_base):
 
-    for archivo in archivos:
+        archivos.sort()
 
-        if not archivo.endswith(".inc"):
-            continue
+        for archivo in archivos:
 
-        ruta = os.path.join(raiz, archivo)
+            # Escaneamos archivos .inc y .s en cualquier rincón de data/ o src/
+            if not (archivo.endswith(".inc") or archivo.endswith(".s")):
+                continue
 
-        with open(ruta, encoding="utf-8", errors="ignore") as f:
+            ruta = os.path.join(raiz, archivo)
 
-            identificador = None
-            lineas_texto = []
+            with open(ruta, encoding="utf-8", errors="ignore") as f:
 
-            for linea in f:
+                identificador = None
+                lineas_texto = []
 
-                m_id = patron_id.match(linea)
+                for linea in f:
 
-                if m_id:
+                    m_id = patron_id.match(linea)
 
-                    guardar_texto(
-                        identificador,
-                        ruta,
-                        lineas_texto
-                    )
+                    if m_id:
 
-                    identificador = m_id.group(1)
-                    lineas_texto = []
+                        guardar_texto(
+                            identificador,
+                            ruta,
+                            lineas_texto
+                        )
 
-                    continue
+                        identificador = m_id.group(1)
+                        lineas_texto = []
 
-                m_string = patron_string.search(linea)
+                        continue
 
-                if m_string:
-                    lineas_texto.append(
-                        m_string.group(1)
-                    )
+                    m_string = patron_string.search(linea)
 
-            guardar_texto(
-                identificador,
-                ruta,
-                lineas_texto
-            )
+                    if m_string:
+                        lineas_texto.append(
+                            m_string.group(1)
+                        )
+
+                guardar_texto(
+                    identificador,
+                    ruta,
+                    lineas_texto
+                )
 
 with open(
     "traduccion/textos_data_text.json",

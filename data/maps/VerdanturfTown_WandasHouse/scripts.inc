@@ -144,25 +144,25 @@ VerdanturfTown_WandasHouse_Text_CanSeeGirlfriendEveryDay:
 	.string "Happy? You bet I am!$"
 
 VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendDriven:
-	.string "My daughter's boyfriend is a very\n"
-	.string "driven and passionate sort of person.\p"
-	.string "He's been digging a tunnel nonstop\n"
-	.string "just so he can see my daughter.\p"
-	.string "My daughter's a little concerned,\n"
-	.string "so she goes out to the tunnel a lot.$"
+        .string "El novio de mi hija es alguien\n"
+        .string "muy decidido y apasionado.\p"
+        .string "Lleva cavando un túnel sin parar\n"
+        .string "solo para poder ver a mi hija.\p"
+        .string "Mi hija está un poco preocupada,\n"
+        .string "así que va mucho al túnel.$"
 
 VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendWasDigging:
-	.string "It's amazing. My daughter's boyfriend\n"
-	.string "was digging the tunnel by hand!\p"
-	.string "It's so incredible!$"
+        .string "Es increíble. ¡El novio de mi\n"
+        .string "hija cavaba el túnel a mano!\p"
+        .string "¡Es asombroso!$"
 
 VerdanturfTown_WandasHouse_Text_IfAnythingHappenedToWally:
-	.string "If anything were to happen to WALLY,\n"
-	.string "I would never be able to look his\l"
-	.string "parents in PETALBURG in the eye…$"
+        .string "Si algo le pasara a BLAS,\n"
+        .string "jamás podría mirar a la cara a\l"
+        .string "sus padres en CIUDAD PETALIA…$"
 
 VerdanturfTown_WandasHouse_Text_WallyWasInEverGrande:
-	.string "WALLY was in EVER GRANDE?\p"
-	.string "His parents in PETALBURG would be\n"
-	.string "astonished to hear that!$"
+        .string "¿¡BLAS estuvo en COLOSALIA!?\p"
+        .string "¡A sus padres en PETALIA les\n"
+        .string "asombrará mucho oír eso!$"
 

@@ -1,0 +1,739 @@
+[
+  {
+    "id_num": 7675,
+    "id": "VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendDriven",
+    "archivo": "data/maps/VerdanturfTown_WandasHouse/scripts.inc",
+    "english": "My daughter's boyfriend is a very\\ndriven and passionate sort of person.\\pHe's been digging a tunnel nonstop\\njust so he can see my daughter.\\pMy daughter's a little concerned,\\nso she goes out to the tunnel a lot.$",
+    "english_lines": [
+      "My daughter's boyfriend is a very\\n",
+      "driven and passionate sort of person.\\p",
+      "He's been digging a tunnel nonstop\\n",
+      "just so he can see my daughter.\\p",
+      "My daughter's a little concerned,\\n",
+      "so she goes out to the tunnel a lot.$"
+    ],
+    "spanish": "El novio de mi hija es alguien\\nmuy decidido y apasionado.\\pLleva cavando un túnel sin parar\\nsolo para poder ver a mi hija.\\pMi hija está un poco preocupada,\\nasí que va mucho al túnel.$",
+    "spanish_lines": [
+      "El novio de mi hija es alguien\\n",
+      "muy decidido y apasionado.\\p",
+      "Lleva cavando un túnel sin parar\\n",
+      "solo para poder ver a mi hija.\\p",
+      "Mi hija está un poco preocupada,\\n",
+      "así que va mucho al túnel.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 215,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7676,
+    "id": "VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendWasDigging",
+    "archivo": "data/maps/VerdanturfTown_WandasHouse/scripts.inc",
+    "english": "It's amazing. My daughter's boyfriend\\nwas digging the tunnel by hand!\\pIt's so incredible!$",
+    "english_lines": [
+      "It's amazing. My daughter's boyfriend\\n",
+      "was digging the tunnel by hand!\\p",
+      "It's so incredible!$"
+    ],
+    "spanish": "Es increíble. ¡El novio de mi\\nhija cavaba el túnel a mano!\\p¡Es asombroso!$",
+    "spanish_lines": [
+      "Es increíble. ¡El novio de mi\\n",
+      "hija cavaba el túnel a mano!\\p",
+      "¡Es asombroso!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 92,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7677,
+    "id": "VerdanturfTown_WandasHouse_Text_IfAnythingHappenedToWally",
+    "archivo": "data/maps/VerdanturfTown_WandasHouse/scripts.inc",
+    "english": "If anything were to happen to WALLY,\\nI would never be able to look his\\lparents in PETALBURG in the eye…$",
+    "english_lines": [
+      "If anything were to happen to WALLY,\\n",
+      "I would never be able to look his\\l",
+      "parents in PETALBURG in the eye…$"
+    ],
+    "spanish": "Si algo le pasara a BLAS,\\njamás podría mirar a la cara a\\lsus padres en CIUDAD PETALIA…$",
+    "spanish_lines": [
+      "Si algo le pasara a BLAS,\\n",
+      "jamás podría mirar a la cara a\\l",
+      "sus padres en CIUDAD PETALIA…$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n"
+    ],
+    "english_length": 106,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7678,
+    "id": "VerdanturfTown_WandasHouse_Text_WallyWasInEverGrande",
+    "archivo": "data/maps/VerdanturfTown_WandasHouse/scripts.inc",
+    "english": "WALLY was in EVER GRANDE?\\pHis parents in PETALBURG would be\\nastonished to hear that!$",
+    "english_lines": [
+      "WALLY was in EVER GRANDE?\\p",
+      "His parents in PETALBURG would be\\n",
+      "astonished to hear that!$"
+    ],
+    "spanish": "¿¡BLAS estuvo en COLOSALIA!?\\p¡A sus padres en PETALIA les\\nasombrará mucho oír eso!$",
+    "spanish_lines": [
+      "¿¡BLAS estuvo en COLOSALIA!?\\p",
+      "¡A sus padres en PETALIA les\\n",
+      "asombrará mucho oír eso!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 87,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7679,
+    "id": "LittlerootTown_Text_OurNewHomeLetsGoInside",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "MOM: {PLAYER}, we're here, honey!\\pIt must be tiring riding with our things\\nin the moving truck.\\pWell, this is LITTLEROOT TOWN.\\pHow do you like it?\\nThis is our new home!\\pIt has a quaint feel, but it seems to be\\nan easy place to live, don't you think?\\pAnd, you get your own room, {PLAYER}!\\nLet's go inside.$",
+    "english_lines": [
+      "MOM: {PLAYER}, we're here, honey!\\p",
+      "It must be tiring riding with our things\\n",
+      "in the moving truck.\\p",
+      "Well, this is LITTLEROOT TOWN.\\p",
+      "How do you like it?\\n",
+      "This is our new home!\\p",
+      "It has a quaint feel, but it seems to be\\n",
+      "an easy place to live, don't you think?\\p",
+      "And, you get your own room, {PLAYER}!\\n",
+      "Let's go inside.$"
+    ],
+    "spanish": "MAMÁ: ¡{PLAYER}, ya llegamos, cielo!\\pDebe ser cansado viajar con nuestras\\ncosas en el camión de mudanza.\\pBueno, esto es VILLA RAÍZ.\\p¿Qué te parece?\\n¡Este es nuestro nuevo hogar!\\pEs un lugar pintoresco, pero parece\\nun sitio tranquilo para vivir, ¿no?\\p¡Y tendrás tu propio cuarto, {PLAYER}!\\nVamos adentro.$",
+    "spanish_lines": [
+      "MAMÁ: ¡{PLAYER}, ya llegamos, cielo!\\p",
+      "Debe ser cansado viajar con nuestras\\n",
+      "cosas en el camión de mudanza.\\p",
+      "Bueno, esto es VILLA RAÍZ.\\p",
+      "¿Qué te parece?\\n",
+      "¡Este es nuestro nuevo hogar!\\p",
+      "Es un lugar pintoresco, pero parece\\n",
+      "un sitio tranquilo para vivir, ¿no?\\p",
+      "¡Y tendrás tu propio cuarto, {PLAYER}!\\n",
+      "Vamos adentro.$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 314,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7680,
+    "id": "LittlerootTown_Text_WaitPlayer",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "MOM: Wait, {PLAYER}!$",
+    "english_lines": [
+      "MOM: Wait, {PLAYER}!$"
+    ],
+    "spanish": "MAMÁ: ¡Espera, {PLAYER}!$",
+    "spanish_lines": [
+      "MAMÁ: ¡Espera, {PLAYER}!$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$"
+    ],
+    "english_length": 21,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7681,
+    "id": "LittlerootTown_Text_WearTheseRunningShoes",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "MOM: {PLAYER}! {PLAYER}! Did you\\nintroduce yourself to PROF. BIRCH?\\pOh! What an adorable POKéMON!\\nYou got it from PROF. BIRCH. How nice!\\pYou're your father's child, all right.\\nYou look good together with POKéMON!\\pHere, honey! If you're going out on an\\nadventure, wear these RUNNING SHOES.\\pThey'll put a zip in your step!$",
+    "english_lines": [
+      "MOM: {PLAYER}! {PLAYER}! Did you\\n",
+      "introduce yourself to PROF. BIRCH?\\p",
+      "Oh! What an adorable POKéMON!\\n",
+      "You got it from PROF. BIRCH. How nice!\\p",
+      "You're your father's child, all right.\\n",
+      "You look good together with POKéMON!\\p",
+      "Here, honey! If you're going out on an\\n",
+      "adventure, wear these RUNNING SHOES.\\p",
+      "They'll put a zip in your step!$"
+    ],
+    "spanish": "MAMÁ: ¡{PLAYER}! ¡{PLAYER}! ¿Te\\npresentaste al PROF. BIRCH?\\p¡Oh! ¡Qué POKéMON tan adorable!\\nTe lo dio el PROF. BIRCH. ¡Qué bien!\\pNo hay duda de que eres hijo de tu\\npadre. ¡Hacen una buena pareja!\\p¡Toma, cielo! Si vas a salir de\\naventura, ponte estas DEPORTIVAS.\\p¡Te darán mucha velocidad!$",
+    "spanish_lines": [
+      "MAMÁ: ¡{PLAYER}! ¡{PLAYER}! ¿Te\\n",
+      "presentaste al PROF. BIRCH?\\p",
+      "¡Oh! ¡Qué POKéMON tan adorable!\\n",
+      "Te lo dio el PROF. BIRCH. ¡Qué bien!\\p",
+      "No hay duda de que eres hijo de tu\\n",
+      "padre. ¡Hacen una buena pareja!\\p",
+      "¡Toma, cielo! Si vas a salir de\\n",
+      "aventura, ponte estas DEPORTIVAS.\\p",
+      "¡Te darán mucha velocidad!$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 329,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7682,
+    "id": "LittlerootTown_Text_SwitchShoesWithRunningShoes",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "{PLAYER} switched shoes with the\\nRUNNING SHOES.$",
+    "english_lines": [
+      "{PLAYER} switched shoes with the\\n",
+      "RUNNING SHOES.$"
+    ],
+    "spanish": "{PLAYER} se cambió los zapatos\\npor las DEPORTIVAS.$",
+    "spanish_lines": [
+      "{PLAYER} se cambió los zapatos\\n",
+      "por las DEPORTIVAS.$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 49,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7683,
+    "id": "LittlerootTown_Text_ExplainRunningShoes",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "MOM: {PLAYER}, those shoes came with\\ninstructions.\\p“Press the B Button while wearing these\\nRUNNING SHOES to run extra-fast!\\p“Slip on these RUNNING SHOES and race\\nin the great outdoors!”$",
+    "english_lines": [
+      "MOM: {PLAYER}, those shoes came with\\n",
+      "instructions.\\p",
+      "“Press the B Button while wearing these\\n",
+      "RUNNING SHOES to run extra-fast!\\p",
+      "“Slip on these RUNNING SHOES and race\\n",
+      "in the great outdoors!”$"
+    ],
+    "spanish": "MAMÁ: {PLAYER}, esas zapatillas\\nvienen con instrucciones.\\p“¡Mantén pulsado el Botón B con\\nestas DEPORTIVAS para correr más!\\p¡Ponte las DEPORTIVAS y corre\\npor el ancho mundo!”$",
+    "spanish_lines": [
+      "MAMÁ: {PLAYER}, esas zapatillas\\n",
+      "vienen con instrucciones.\\p",
+      "“¡Mantén pulsado el Botón B con\\n",
+      "estas DEPORTIVAS para correr más!\\p",
+      "¡Ponte las DEPORTIVAS y corre\\n",
+      "por el ancho mundo!”$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 191,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7684,
+    "id": "LittlerootTown_Text_ComeHomeIfAnythingHappens",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "… … … … … … … …\\n… … … … … … … …\\pTo think that you have your very own\\nPOKéMON now…\\lYour father will be overjoyed.\\p…But please be careful.\\nIf anything happens, you can come home.\\pGo on, go get them, honey!$",
+    "english_lines": [
+      "… … … … … … … …\\n",
+      "… … … … … … … …\\p",
+      "To think that you have your very own\\n",
+      "POKéMON now…\\l",
+      "Your father will be overjoyed.\\p",
+      "…But please be careful.\\n",
+      "If anything happens, you can come home.\\p",
+      "Go on, go get them, honey!$"
+    ],
+    "spanish": "… … … … … … … …\\n… … … … … … … …\\pPensar que ahora tienes tu propio\\nPOKéMON…\\lTu padre se va a alegrar muchísimo.\\p…Pero ten mucho cuidado, por favor.\\nSi pasa algo, puedes volver a casa.\\p¡Adante, ve a por todas, cielo!$",
+    "spanish_lines": [
+      "… … … … … … … …\\n",
+      "… … … … … … … …\\p",
+      "Pensar que ahora tienes tu propio\\n",
+      "POKéMON…\\l",
+      "Tu padre se va a alegrar muchísimo.\\p",
+      "…Pero ten mucho cuidado, por favor.\\n",
+      "Si pasa algo, puedes volver a casa.\\p",
+      "¡Adante, ve a por todas, cielo!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 211,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7685,
+    "id": "LittlerootTown_Text_CanUsePCToStoreItems",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "If you use a PC, you can store items\\nand POKéMON.\\pThe power of science is staggering!$",
+    "english_lines": [
+      "If you use a PC, you can store items\\n",
+      "and POKéMON.\\p",
+      "The power of science is staggering!$"
+    ],
+    "spanish": "Si usas un PC, puedes almacenar\\nobjetos y POKéMON.\\p¡El poder de la ciencia es asombroso!$",
+    "spanish_lines": [
+      "Si usas un PC, puedes almacenar\\n",
+      "objetos y POKéMON.\\p",
+      "¡El poder de la ciencia es asombroso!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 88,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7686,
+    "id": "LittlerootTown_Text_BirchSpendsDaysInLab",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "PROF. BIRCH spends days in his LAB\\nstudying, then he'll suddenly go out in\\lthe wild to do more research…\\pWhen does PROF. BIRCH spend time\\nat home?$",
+    "english_lines": [
+      "PROF. BIRCH spends days in his LAB\\n",
+      "studying, then he'll suddenly go out in\\l",
+      "the wild to do more research…\\p",
+      "When does PROF. BIRCH spend time\\n",
+      "at home?$"
+    ],
+    "spanish": "El PROF. BIRCH se pasa días en su\\nLABORATORIO estudiando, y de repente\\lse va a investigar al campo…\\p¿Cuándo pasa tiempo el PROF. BIRCH\\nen su casa?$",
+    "spanish_lines": [
+      "El PROF. BIRCH se pasa días en su\\n",
+      "LABORATORIO estudiando, y de repente\\l",
+      "se va a investigar al campo…\\p",
+      "¿Cuándo pasa tiempo el PROF. BIRCH\\n",
+      "en su casa?$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 151,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7687,
+    "id": "LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "Um, um, um!\\pIf you go outside and go in the grass,\\nwild POKéMON will jump out!$",
+    "english_lines": [
+      "Um, um, um!\\p",
+      "If you go outside and go in the grass,\\n",
+      "wild POKéMON will jump out!$"
+    ],
+    "spanish": "¡Oye, oye, oye!\\p¡Si sales y te metes en la hierba,\\nte saltarán POKéMON salvajes!$",
+    "spanish_lines": [
+      "¡Oye, oye, oye!\\p",
+      "¡Si sales y te metes en la hierba,\\n",
+      "te saltarán POKéMON salvajes!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 81,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7688,
+    "id": "LittlerootTown_Text_DangerousIfYouDontHavePokemon",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "It's dangerous if you don't have\\nyour own POKéMON.$",
+    "english_lines": [
+      "It's dangerous if you don't have\\n",
+      "your own POKéMON.$"
+    ],
+    "spanish": "Es peligroso si no llevas tus\\npropios POKéMON.$",
+    "spanish_lines": [
+      "Es peligroso si no llevas tus\\n",
+      "propios POKéMON.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 52,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7689,
+    "id": "LittlerootTown_Text_CanYouGoSeeWhatsHappening",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "Um, hi!\\pThere are scary POKéMON outside!\\nI can hear their cries!\\pI want to go see what's going on,\\nbut I don't have any POKéMON…\\pCan you go see what's happening\\nfor me?$",
+    "english_lines": [
+      "Um, hi!\\p",
+      "There are scary POKéMON outside!\\n",
+      "I can hear their cries!\\p",
+      "I want to go see what's going on,\\n",
+      "but I don't have any POKéMON…\\p",
+      "Can you go see what's happening\\n",
+      "for me?$"
+    ],
+    "spanish": "¡Hola!\\p¡Hay POKéMON temibles ahí fuera!\\n¡Puedo oír sus alaridos!\\pQuiero ir a ver qué está pasando,\\npero no tengo ningún POKéMON…\\p¿Podrías ir a ver qué ocurre\\npor mí?$",
+    "spanish_lines": [
+      "¡Hola!\\p",
+      "¡Hay POKéMON temibles ahí fuera!\\n",
+      "¡Puedo oír sus alaridos!\\p",
+      "Quiero ir a ver qué está pasando,\\n",
+      "pero no tengo ningún POKéMON…\\p",
+      "¿Podrías ir a ver qué ocurre\\n",
+      "por mí?$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 175,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7690,
+    "id": "LittlerootTown_Text_YouSavedBirch",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "You saved PROF. BIRCH!\\nI'm so glad!$",
+    "english_lines": [
+      "You saved PROF. BIRCH!\\n",
+      "I'm so glad!$"
+    ],
+    "spanish": "¡Salvaste al PROF. BIRCH!\\n¡Cuánto me alegro!$",
+    "spanish_lines": [
+      "¡Salvaste al PROF. BIRCH!\\n",
+      "¡Cuánto me alegro!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 37,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7691,
+    "id": "LittlerootTown_Text_GoodLuckCatchingPokemon",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "Are you going to catch POKéMON?\\nGood luck!$",
+    "english_lines": [
+      "Are you going to catch POKéMON?\\n",
+      "Good luck!$"
+    ],
+    "spanish": "¿Vas a capturar POKéMON?\\n¡Buena suerte!$",
+    "spanish_lines": [
+      "¿Vas a capturar POKéMON?\\n",
+      "¡Buena suerte!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 44,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7692,
+    "id": "LittlerootTown_Text_TownSign",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "LITTLEROOT TOWN\\n“A town that can't be shaded any hue.”$",
+    "english_lines": [
+      "LITTLEROOT TOWN\\n",
+      "“A town that can't be shaded any hue.”$"
+    ],
+    "spanish": "VILLA RAÍZ\\nPueblo sutil de tinte inconfundible.$",
+    "spanish_lines": [
+      "VILLA RAÍZ\\n",
+      "Pueblo sutil de tinte inconfundible.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 56,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7693,
+    "id": "LittlerootTown_Text_ProfBirchsLab",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "PROF. BIRCH'S POKéMON LAB$",
+    "english_lines": [
+      "PROF. BIRCH'S POKéMON LAB$"
+    ],
+    "spanish": "LABORATORIO POKéMON DEL PROF. BIRCH$",
+    "spanish_lines": [
+      "LABORATORIO POKéMON DEL PROF. BIRCH$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$"
+    ],
+    "english_length": 26,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7694,
+    "id": "LittlerootTown_Text_PlayersHouse",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "{PLAYER}'s HOUSE$",
+    "english_lines": [
+      "{PLAYER}'s HOUSE$"
+    ],
+    "spanish": "CASA DE {PLAYER}$",
+    "spanish_lines": [
+      "CASA DE {PLAYER}$"
+    ],
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$"
+    ],
+    "english_length": 17,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7695,
+    "id": "LittlerootTown_Text_ProfBirchsHouse",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "PROF. BIRCH'S HOUSE$",
+    "english_lines": [
+      "PROF. BIRCH'S HOUSE$"
+    ],
+    "spanish": "CASA DEL PROF. BIRCH$",
+    "spanish_lines": [
+      "CASA DEL PROF. BIRCH$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$"
+    ],
+    "english_length": 20,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7696,
+    "id": "LittlerootTown_Text_BirchSomethingToShowYouAtLab",
+    "archivo": "data/maps/LittlerootTown/scripts.inc",
+    "english": "PROF. BIRCH: Well, well, {PLAYER}{KUN}!\\nThat was good work out there!\\pI knew there was something special\\nabout you when I first saw you,\\lbut I never expected this.\\pOh, yes. Do you still have the POKéDEX\\nI gave you?\\pI have something to show you.\\nLet's go to my LAB.$",
+    "english_lines": [
+      "PROF. BIRCH: Well, well, {PLAYER}{KUN}!\\n",
+      "That was good work out there!\\p",
+      "I knew there was something special\\n",
+      "about you when I first saw you,\\l",
+      "but I never expected this.\\p",
+      "Oh, yes. Do you still have the POKéDEX\\n",
+      "I gave you?\\p",
+      "I have something to show you.\\n",
+      "Let's go to my LAB.$"
+    ],
+    "spanish": "PROF. BIRCH: ¡Vaya, {PLAYER}{KUN}!\\n¡Has hecho un gran trabajo ahí fuera!\\pSupe que eras alguien especial\\ndesde la primera vez que te vi,\\lpero esto supera mis expectativas.\\pAh, sí. ¿Aún conservas la POKéDEX\\nque te di?\\pTengo algo que enseñarte.\\nVamos a mi LABORATORIO.$",
+    "spanish_lines": [
+      "PROF. BIRCH: ¡Vaya, {PLAYER}{KUN}!\\n",
+      "¡Has hecho un gran trabajo ahí fuera!\\p",
+      "Supe que eras alguien especial\\n",
+      "desde la primera vez que te vi,\\l",
+      "pero esto supera mis expectativas.\\p",
+      "Ah, sí. ¿Aún conservas la POKéDEX\\n",
+      "que te di?\\p",
+      "Tengo algo que enseñarte.\\n",
+      "Vamos a mi LABORATORIO.$"
+    ],
+    "variables": [
+      "{KUN}",
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 273,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7697,
+    "id": "TrainerHill_Entrance_Text_StillGettingReady",
+    "archivo": "data/maps/TrainerHill_Entrance/scripts.inc",
+    "english": "This is the TRAINER HILL where\\nyou may enjoy tag battles with many\\lTRAINERS.\\pUnfortunately, we're still getting\\nthings ready. Please come back later!$",
+    "english_lines": [
+      "This is the TRAINER HILL where\\n",
+      "you may enjoy tag battles with many\\l",
+      "TRAINERS.\\p",
+      "Unfortunately, we're still getting\\n",
+      "things ready. Please come back later!$"
+    ],
+    "spanish": "Esta es la COLINA ENTRENADOR, donde\\npodrás disfrutar de combates junto a\\luna gran variedad de ENTRENADORES.\\pPor desgracia, aún estamos preparando\\ntodo. ¡Por favor, vuelve más tarde!$",
+    "spanish_lines": [
+      "Esta es la COLINA ENTRENADOR, donde\\n",
+      "podrás disfrutar de combates junto a\\l",
+      "una gran variedad de ENTRENADORES.\\p",
+      "Por desgracia, aún estamos preparando\\n",
+      "todo. ¡Por favor, vuelve más tarde!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 154,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7698,
+    "id": "TrainerHill_Entrance_Text_WelcomeToTrainerHill",
+    "archivo": "data/maps/TrainerHill_Entrance/scripts.inc",
+    "english": "Welcome!\\pThis is the TRAINER HILL where\\nyou may enjoy tag battles with many\\lTRAINERS!$",
+    "english_lines": [
+      "Welcome!\\p",
+      "This is the TRAINER HILL where\\n",
+      "you may enjoy tag battles with many\\l",
+      "TRAINERS!$"
+    ],
+    "spanish": "¡Te damos la bienvenida!\\p¡Esta es la COLINA ENTRENADOR, donde\\npodrás disfrutar de combates junto a\\lmuchos ENTRENADORES!$",
+    "spanish_lines": [
+      "¡Te damos la bienvenida!\\p",
+      "¡Esta es la COLINA ENTRENADOR, donde\\n",
+      "podrás disfrutar de combates junto a\\n",
+      "muchos ENTRENADORES!$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 89,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7699,
+    "id": "TrainerHill_Entrance_Text_SaveGameBeforeEnter",
+    "archivo": "data/maps/TrainerHill_Entrance/scripts.inc",
+    "english": "Is this your first visit here?\\pBefore you enter, please save\\nyour game.$",
+    "english_lines": [
+      "Is this your first visit here?\\p",
+      "Before you enter, please save\\n",
+      "your game.$"
+    ],
+    "spanish": "¿Es esta tu primera visita aquí?\\pAntes de entrar, guarda tu partida\\npor favor.$",
+    "spanish_lines": [
+      "¿Es esta tu primera visita aquí?\\p",
+      "Antes de entrar, guarda tu partida\\n",
+      "por favor.$"
+    ],
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 74,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 7700,
+    "id": "TrainerHill_Entrance_Text_TrainersUpToFloorX",
+    "archivo": "data/maps/TrainerHill_Entrance/scripts.inc",
+    "english": "Let's see…\\nThe TRAINERS here now are…\\pUp to floor no. {STR_VAR_1}.$",
+    "english_lines": [
+      "Let's see…\\n",
+      "The TRAINERS here now are…\\p",
+      "Up to floor no. {STR_VAR_1}.$"
+    ],
+    "spanish": "A ver…\\nLos ENTRENADORES actuales están…\\pHasta el piso n.º {STR_VAR_1}.$",
+    "spanish_lines": [
+      "A ver…\\n",
+      "Los ENTRENADORES actuales están…\\p",
+      "Hasta el piso n.º {STR_VAR_1}.$"
+    ],
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 69,
+    "translated": true,
+    "reviewed": true
+  }
+]

@@ -19,61 +19,44 @@ for entrada in traducidos:
     por_archivo[entrada["archivo"]].append(entrada)
 
 for ruta_archivo, entradas in por_archivo.items():
-
     print(f"\nProcesando: {ruta_archivo}")
 
     with open(ruta_archivo, encoding="utf-8") as f:
-        lineas = f.readlines()
+        contenido = f.read()
 
     for entrada in entradas:
-
         identificador = entrada["id"]
         nuevas_lineas = entrada["spanish_lines"]
 
-        inicio = None
-
-        patron = re.compile(
-            rf"^\s*{re.escape(identificador)}::?\s*$"
+        patron_bloque = (
+            rf"(^{re.escape(identificador)}\s*:\s*\n)"
+            rf"((?:[ \t]+\.string \"[^\"]*\"\n)*)"
         )
 
-        for i, linea in enumerate(lineas):
+        match = re.search(
+            patron_bloque,
+            contenido,
+            re.MULTILINE
+        )
 
-            if patron.match(linea):
-                inicio = i
-                break
-
-        if inicio is None:
-            print(f"No encontrado: {identificador}")
+        if not match:
+            print(f"  ❌ No encontrado: {identificador}")
             continue
 
-        j = inicio + 1
-
-        while (
-            j < len(lineas)
-            and '.string "' in lineas[j]
-        ):
-            j += 1
-
-        reemplazo = []
-
+        reemplazo_strings = ""
         for texto in nuevas_lineas:
+            # Opción 2: Omitir comillas dobles internas
+            texto_escapado = texto.replace('"', '')
+            
+            reemplazo_strings += f'        .string "{texto_escapado}"\n'
 
-            reemplazo.append(
-                f'        .string "{texto}"\n'
-            )
+        nuevo_bloque = match.group(1) + reemplazo_strings
 
-        lineas[inicio + 1:j] = reemplazo
+        contenido = contenido[:match.start()] + nuevo_bloque + contenido[match.end():]
 
-        print(
-            f"Actualizado: {identificador}"
-        )
+        print(f"  ✅ Actualizado: {identificador}")
 
-    with open(
-        ruta_archivo,
-        "w",
-        encoding="utf-8"
-    ) as f:
+    with open(ruta_archivo, "w", encoding="utf-8") as f:
+        f.write(contenido)
 
-        f.writelines(lineas)
-
-print("\nInyección finalizada.")
+print("\n✅ Inyección finalizada.")
