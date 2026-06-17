@@ -1,0 +1,2579 @@
+[
+  {
+    "id_num": 1,
+    "id": "gText_AbnormalWeatherEnded_Rain",
+    "archivo": "data/text/abnormal_weather.inc",
+    "english": "The massive downpour appears to\\nhave stopped…$",
+    "english_lines": [
+      "The massive downpour appears to\\n",
+      "have stopped…$"
+    ],
+    "spanish": "La lluvia torrencial parece\\nhaber cesado…$",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 47,
+    "translated": true,
+    "reviewed": true
+  },
+  {
+    "id_num": 2,
+    "id": "gText_AbnormalWeatherEnded_Sun",
+    "archivo": "data/text/abnormal_weather.inc",
+    "english": "The intense sunshine appears to\\nhave subsided…$",
+    "english_lines": [
+      "The intense sunshine appears to\\n",
+      "have subsided…$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 48,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 3,
+    "id": "gText_ApprenticeChallenge0",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Um, I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\\nSnivel… This tension is getting to me…$",
+    "english_lines": [
+      "Um, I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\\n",
+      "Snivel… This tension is getting to me…$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 90,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 4,
+    "id": "gText_ApprenticeChallenge1",
+    "archivo": "data/text/apprentice.inc",
+    "english": "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\\nHere we come!$",
+    "english_lines": [
+      "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\\n",
+      "Here we come!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 61,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 5,
+    "id": "gText_ApprenticeChallenge2",
+    "archivo": "data/text/apprentice.inc",
+    "english": "I'm the no. {STR_VAR_2} apprentice of {STR_VAR_1}!\\nAccept my challenge!$",
+    "english_lines": [
+      "I'm the no. {STR_VAR_2} apprentice of {STR_VAR_1}!\\n",
+      "Accept my challenge!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 73,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 6,
+    "id": "gText_ApprenticeChallenge3",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Um… I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice…\\nDo you think someone like me can win?$",
+    "english_lines": [
+      "Um… I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice…\\n",
+      "Do you think someone like me can win?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 89,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 7,
+    "id": "gText_ApprenticeChallenge4",
+    "archivo": "data/text/apprentice.inc",
+    "english": "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\\nI'll let you challenge me!$",
+    "english_lines": [
+      "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\\n",
+      "I'll let you challenge me!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 74,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 8,
+    "id": "gText_ApprenticeChallenge5",
+    "archivo": "data/text/apprentice.inc",
+    "english": "I'm horribly busy, but I also happen\\nto be {STR_VAR_1}'s no. {STR_VAR_2} apprentice.$",
+    "english_lines": [
+      "I'm horribly busy, but I also happen\\n",
+      "to be {STR_VAR_1}'s no. {STR_VAR_2} apprentice.$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 86,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 9,
+    "id": "gText_ApprenticeChallenge6",
+    "archivo": "data/text/apprentice.inc",
+    "english": "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\\nGlad to meet you!$",
+    "english_lines": [
+      "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\\n",
+      "Glad to meet you!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 65,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 10,
+    "id": "gText_ApprenticeChallenge7",
+    "archivo": "data/text/apprentice.inc",
+    "english": "I serve as {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\\nMay I begin?$",
+    "english_lines": [
+      "I serve as {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\\n",
+      "May I begin?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 67,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 11,
+    "id": "gText_ApprenticeChallenge8",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Eek! I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\\nI'll do my best!$",
+    "english_lines": [
+      "Eek! I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\\n",
+      "I'll do my best!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 69,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 12,
+    "id": "gText_ApprenticeChallenge9",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Yeehaw! I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\\nPut 'em up!$",
+    "english_lines": [
+      "Yeehaw! I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\\n",
+      "Put 'em up!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 67,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 13,
+    "id": "gText_ApprenticeChallenge10",
+    "archivo": "data/text/apprentice.inc",
+    "english": "I'm {STR_VAR_1}'s 1,000th apprentice!\\nActually, I'm no. {STR_VAR_2}! Here goes!$",
+    "english_lines": [
+      "I'm {STR_VAR_1}'s 1,000th apprentice!\\n",
+      "Actually, I'm no. {STR_VAR_2}! Here goes!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 81,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 14,
+    "id": "gText_ApprenticeChallenge11",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Yeah, I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\\nLet's get rockin' and a-rollin'!$",
+    "english_lines": [
+      "Yeah, I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\\n",
+      "Let's get rockin' and a-rollin'!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 86,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 15,
+    "id": "gText_ApprenticeChallenge12",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Yippee-yahoo! I'm what you call\\n{STR_VAR_1}'s no. {STR_VAR_2} apprentice!$",
+    "english_lines": [
+      "Yippee-yahoo! I'm what you call\\n",
+      "{STR_VAR_1}'s no. {STR_VAR_2} apprentice!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 75,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 16,
+    "id": "gText_ApprenticeChallenge13",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Cough! I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\\nGood to meet you! Cough!$",
+    "english_lines": [
+      "Cough! I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\\n",
+      "Good to meet you! Cough!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 79,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 17,
+    "id": "gText_ApprenticeChallenge14",
+    "archivo": "data/text/apprentice.inc",
+    "english": "This is nerve-racking…\\nI'm the no. {STR_VAR_2} apprentice of {STR_VAR_1}.$",
+    "english_lines": [
+      "This is nerve-racking…\\n",
+      "I'm the no. {STR_VAR_2} apprentice of {STR_VAR_1}.$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 75,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 18,
+    "id": "gText_ApprenticeChallenge15",
+    "archivo": "data/text/apprentice.inc",
+    "english": "I am {STR_VAR_1}'s no. {STR_VAR_2} apprentice,\\nand that's no lie.$",
+    "english_lines": [
+      "I am {STR_VAR_1}'s no. {STR_VAR_2} apprentice,\\n",
+      "and that's no lie.$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 67,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 19,
+    "id": "gText_ApprenticePleaseTeach0",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Are you… {PLAYER}?\\nOh! Sniff…sob…\\pOh! S-sorry…\\nI'm so nervous, I can't help crying…\\pI'm {STR_VAR_1}, and I really look up\\nto you, {PLAYER}.\\pI… I had this dream of one day meeting\\nyou and asking you about POKéMON.\\pPlease, please, {PLAYER}!\\nPlease teach me about POKéMON!$",
+    "english_lines": [
+      "Are you… {PLAYER}?\\n",
+      "Oh! Sniff…sob…\\p",
+      "Oh! S-sorry…\\n",
+      "I'm so nervous, I can't help crying…\\p",
+      "I'm {STR_VAR_1}, and I really look up\\n",
+      "to you, {PLAYER}.\\p",
+      "I… I had this dream of one day meeting\\n",
+      "you and asking you about POKéMON.\\p",
+      "Please, please, {PLAYER}!\\n",
+      "Please teach me about POKéMON!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 279,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 20,
+    "id": "gText_ApprenticeRejectTeaching0",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh… B-but…\\nSnivel… Waaaaaaah!\\pPlease!\\nI'm begging you, please!$",
+    "english_lines": [
+      "Oh… B-but…\\n",
+      "Snivel… Waaaaaaah!\\p",
+      "Please!\\n",
+      "I'm begging you, please!$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 66,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 21,
+    "id": "gText_ApprenticeWhichLevelMode0",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, really? You will?\\nAwesome! Wicked! Awoooh!\\pOh… I'm sorry…\\nI'm so happy, I'm crying…\\pUm… Then please tell me!\\nIt's about the BATTLE TOWER.\\pWhich would be better for me: Level 50\\nor the Open Level?$",
+    "english_lines": [
+      "Oh, really? You will?\\n",
+      "Awesome! Wicked! Awoooh!\\p",
+      "Oh… I'm sorry…\\n",
+      "I'm so happy, I'm crying…\\p",
+      "Um… Then please tell me!\\n",
+      "It's about the BATTLE TOWER.\\p",
+      "Which would be better for me: Level 50\\n",
+      "or the Open Level?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 207,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 22,
+    "id": "gText_ApprenticeLevelModeThanks0",
+    "archivo": "data/text/apprentice.inc",
+    "english": "{STR_VAR_1}?\\nWaaaaah!\\pOh! I'm so sorry!\\nYou've made me happy by choosing\\lthe level for me, and it's made me cry…\\pSnivel…\\nThank you so much!\\lPlease talk with me again!$",
+    "english_lines": [
+      "{STR_VAR_1}?\\n",
+      "Waaaaah!\\p",
+      "Oh! I'm so sorry!\\n",
+      "You've made me happy by choosing\\l",
+      "the level for me, and it's made me cry…\\p",
+      "Snivel…\\n",
+      "Thank you so much!\\l",
+      "Please talk with me again!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 174,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 23,
+    "id": "gText_ApprenticePleaseTeach1",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Wowee! You're {PLAYER}, aren't you?\\nYou're awesomely strong, aren't you?\\pI'm {STR_VAR_1}!\\nI just became a TRAINER!\\pPlease, {PLAYER}!\\nCan you be my teacher and tell me\\llots about being a TRAINER?$",
+    "english_lines": [
+      "Wowee! You're {PLAYER}, aren't you?\\n",
+      "You're awesomely strong, aren't you?\\p",
+      "I'm {STR_VAR_1}!\\n",
+      "I just became a TRAINER!\\p",
+      "Please, {PLAYER}!\\n",
+      "Can you be my teacher and tell me\\l",
+      "lots about being a TRAINER?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 201,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 24,
+    "id": "gText_ApprenticeRejectTeaching1",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Aww, why?\\nOh, please? Pretty please?\\lPlease be my teacher, please!$",
+    "english_lines": [
+      "Aww, why?\\n",
+      "Oh, please? Pretty please?\\l",
+      "Please be my teacher, please!$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n"
+    ],
+    "english_length": 69,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 25,
+    "id": "gText_ApprenticeWhichLevelMode1",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Yay! Great!\\pThe first thing I wanted to ask you is\\nabout the BATTLE TOWER!\\pThe Level 50 and Open Level Rooms…\\nWhich would be perfect for me?$",
+    "english_lines": [
+      "Yay! Great!\\p",
+      "The first thing I wanted to ask you is\\n",
+      "about the BATTLE TOWER!\\p",
+      "The Level 50 and Open Level Rooms…\\n",
+      "Which would be perfect for me?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 145,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 26,
+    "id": "gText_ApprenticeLevelModeThanks1",
+    "archivo": "data/text/apprentice.inc",
+    "english": "{STR_VAR_1}, huh? That's true!\\nI'll do my best there!\\pIf we meet here again, please teach\\nme something else, teacher!$",
+    "english_lines": [
+      "{STR_VAR_1}, huh? That's true!\\n",
+      "I'll do my best there!\\p",
+      "If we meet here again, please teach\\n",
+      "me something else, teacher!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 121,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 27,
+    "id": "gText_ApprenticePleaseTeach2",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Um… Are you {PLAYER}?\\nMy name is {STR_VAR_1}.\\pI want to become a POKéMON TRAINER,\\nbut I don't know what to do…\\pSo I thought maybe I could ask you for\\nadvice because you're so famous.\\p{PLAYER}, could you give me advice?$",
+    "english_lines": [
+      "Um… Are you {PLAYER}?\\n",
+      "My name is {STR_VAR_1}.\\p",
+      "I want to become a POKéMON TRAINER,\\n",
+      "but I don't know what to do…\\p",
+      "So I thought maybe I could ask you for\\n",
+      "advice because you're so famous.\\p",
+      "{PLAYER}, could you give me advice?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 225,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 28,
+    "id": "gText_ApprenticeRejectTeaching2",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, but…\\pI sincerely want to become a POKéMON\\nTRAINER!\\pPlease, can you answer my questions?$",
+    "english_lines": [
+      "Oh, but…\\p",
+      "I sincerely want to become a POKéMON\\n",
+      "TRAINER!\\p",
+      "Please, can you answer my questions?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 95,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 29,
+    "id": "gText_ApprenticeWhichLevelMode2",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Thank you!\\nHere's my first question right away!\\pThe BATTLE TOWER has two levels,\\nLevel 50 and Open Level, right?\\pWhich level do you think is more\\nsuitable for me?$",
+    "english_lines": [
+      "Thank you!\\n",
+      "Here's my first question right away!\\p",
+      "The BATTLE TOWER has two levels,\\n",
+      "Level 50 and Open Level, right?\\p",
+      "Which level do you think is more\\n",
+      "suitable for me?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 168,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 30,
+    "id": "gText_ApprenticeLevelModeThanks2",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, the {STR_VAR_1} challenge?\\nUnderstood!\\pIf I have another question, I'll come\\nback here for your advice!$",
+    "english_lines": [
+      "Oh, the {STR_VAR_1} challenge?\\n",
+      "Understood!\\p",
+      "If I have another question, I'll come\\n",
+      "back here for your advice!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 111,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 31,
+    "id": "gText_ApprenticePleaseTeach3",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh? Huh? You're…\\nNo, that can't be true.\\pThere isn't any way that someone\\nlike me could meet {PLAYER}.\\p…You really are {PLAYER}?\\nI can't believe I'm talking to you!\\pWhen something this good happens,\\nonly terrible things will happen to me\\lnow, I just know it…\\p…I'm sorry…\\nI'm… {STR_VAR_1}…\\pThere isn't anything special about\\nme that I can be proud of…\\pI shouldn't even say anything about\\nmyself because you'll forget…\\pI had this dream that if I ever met\\nyou, {PLAYER}, that maybe I could ask\\lyou for advice as a TRAINER.\\pBut I don't think you would agree\\nto that.\\p…Or will you be so kind as to give\\nme advice?$",
+    "english_lines": [
+      "Oh? Huh? You're…\\n",
+      "No, that can't be true.\\p",
+      "There isn't any way that someone\\n",
+      "like me could meet {PLAYER}.\\p",
+      "…You really are {PLAYER}?\\n",
+      "I can't believe I'm talking to you!\\p",
+      "When something this good happens,\\n",
+      "only terrible things will happen to me\\l",
+      "now, I just know it…\\p",
+      "…I'm sorry…\\n",
+      "I'm… {STR_VAR_1}…\\p",
+      "There isn't anything special about\\n",
+      "me that I can be proud of…\\p",
+      "I shouldn't even say anything about\\n",
+      "myself because you'll forget…\\p",
+      "I had this dream that if I ever met\\n",
+      "you, {PLAYER}, that maybe I could ask\\l",
+      "you for advice as a TRAINER.\\p",
+      "But I don't think you would agree\\n",
+      "to that.\\p",
+      "…Or will you be so kind as to give\\n",
+      "me advice?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 630,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 32,
+    "id": "gText_ApprenticeRejectTeaching3",
+    "archivo": "data/text/apprentice.inc",
+    "english": "I knew it…\\pIt had to happen because I'm such\\na really boring nobody…\\pBut I thought just maybe…\\nYou won't reconsider, will you?\\pBut I can't give up just like that.\\nI'll ask you while I'm still lucky!\\pPlease, will you be so kind as to give\\nme advice?$",
+    "english_lines": [
+      "I knew it…\\p",
+      "It had to happen because I'm such\\n",
+      "a really boring nobody…\\p",
+      "But I thought just maybe…\\n",
+      "You won't reconsider, will you?\\p",
+      "But I can't give up just like that.\\n",
+      "I'll ask you while I'm still lucky!\\p",
+      "Please, will you be so kind as to give\\n",
+      "me advice?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 257,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 33,
+    "id": "gText_ApprenticeWhichLevelMode3",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Really? I can't believe it!\\nI can't believe you'll advise me!\\lI… I'm so happy…\\pWhat I want to ask you is really\\ntrivial, but I can't decide…\\pAt the BATTLE TOWER, they let you\\nchoose Level 50 or Open Level.\\pWhich course do you think even I may\\nhave a chance at?$",
+    "english_lines": [
+      "Really? I can't believe it!\\n",
+      "I can't believe you'll advise me!\\l",
+      "I… I'm so happy…\\p",
+      "What I want to ask you is really\\n",
+      "trivial, but I can't decide…\\p",
+      "At the BATTLE TOWER, they let you\\n",
+      "choose Level 50 or Open Level.\\p",
+      "Which course do you think even I may\\n",
+      "have a chance at?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 269,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 34,
+    "id": "gText_ApprenticeLevelModeThanks3",
+    "archivo": "data/text/apprentice.inc",
+    "english": "{STR_VAR_1}? Okay!\\nBut do you really think someone like\\lme would have a chance?\\pI'll do my best, even though I don't\\nthink it will work.\\pThank you very much for spending\\ntime with someone like me.$",
+    "english_lines": [
+      "{STR_VAR_1}? Okay!\\n",
+      "But do you really think someone like\\l",
+      "me would have a chance?\\p",
+      "I'll do my best, even though I don't\\n",
+      "think it will work.\\p",
+      "Thank you very much for spending\\n",
+      "time with someone like me.$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 203,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 35,
+    "id": "gText_ApprenticePleaseTeach4",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh! You're {PLAYER}{KUN}, aren't you?\\pI've heard that you're tough at\\nPOKéMON!\\pI'm {STR_VAR_1}!\\nI'll be your friend!\\pDid you know?\\pYou can't win at the BATTLE FRONTIER\\nif all you know is what they teach at\\lthe TRAINER'S SCHOOL.\\pI'm willing to listen to your advice.\\nYou'll agree, of course?$",
+    "english_lines": [
+      "Oh! You're {PLAYER}{KUN}, aren't you?\\p",
+      "I've heard that you're tough at\\n",
+      "POKéMON!\\p",
+      "I'm {STR_VAR_1}!\\n",
+      "I'll be your friend!\\p",
+      "Did you know?\\p",
+      "You can't win at the BATTLE FRONTIER\\n",
+      "if all you know is what they teach at\\l",
+      "the TRAINER'S SCHOOL.\\p",
+      "I'm willing to listen to your advice.\\n",
+      "You'll agree, of course?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{KUN}",
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 301,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 36,
+    "id": "gText_ApprenticeRejectTeaching4",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Huh? Why are you refusing me?\\nIt's me who's asking you!\\lYou have to reconsider!$",
+    "english_lines": [
+      "Huh? Why are you refusing me?\\n",
+      "It's me who's asking you!\\l",
+      "You have to reconsider!$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n"
+    ],
+    "english_length": 82,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 37,
+    "id": "gText_ApprenticeWhichLevelMode4",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Okay, so there is this something.\\nI want you to decide it for me.\\pYou know that the BATTLE TOWER has\\nLevel 50 and Open Level Rooms?\\pWhich do you think would be good\\nfor me, {PLAYER}{KUN}?$",
+    "english_lines": [
+      "Okay, so there is this something.\\n",
+      "I want you to decide it for me.\\p",
+      "You know that the BATTLE TOWER has\\n",
+      "Level 50 and Open Level Rooms?\\p",
+      "Which do you think would be good\\n",
+      "for me, {PLAYER}{KUN}?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{KUN}",
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 193,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 38,
+    "id": "gText_ApprenticeLevelModeThanks4",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Okay, {STR_VAR_1} is suitable for me?\\nThank you!\\pKnowing that you made the decision,\\n{PLAYER}{KUN}, I won't be so upset if\\lI lose.\\pOkay, I'll look to you for advice again.\\nBye!$",
+    "english_lines": [
+      "Okay, {STR_VAR_1} is suitable for me?\\n",
+      "Thank you!\\p",
+      "Knowing that you made the decision,\\n",
+      "{PLAYER}{KUN}, I won't be so upset if\\l",
+      "I lose.\\p",
+      "Okay, I'll look to you for advice again.\\n",
+      "Bye!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{KUN}",
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 183,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 39,
+    "id": "gText_ApprenticePleaseTeach5",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, hi, there! {PLAYER}{KUN}!\\nI know you because you're famous!\\lCall me {STR_VAR_1}! Glad to meet you!\\pI'm a TRIATHLETE, so I keep myself\\nfit even while I raise POKéMON.\\pI'm also involved with other things\\nlike work, napping, ballroom dancing…\\pBeing this busy, it's not so easy for\\nme to become a decent TRAINER.\\pSo, I have a proposition!\\pThere must be a reason why we met.\\nSo, {PLAYER}{KUN}, how about sharing your\\lwisdom with me every so often?$",
+    "english_lines": [
+      "Oh, hi, there! {PLAYER}{KUN}!\\n",
+      "I know you because you're famous!\\l",
+      "Call me {STR_VAR_1}! Glad to meet you!\\p",
+      "I'm a TRIATHLETE, so I keep myself\\n",
+      "fit even while I raise POKéMON.\\p",
+      "I'm also involved with other things\\n",
+      "like work, napping, ballroom dancing…\\p",
+      "Being this busy, it's not so easy for\\n",
+      "me to become a decent TRAINER.\\p",
+      "So, I have a proposition!\\p",
+      "There must be a reason why we met.\\n",
+      "So, {PLAYER}{KUN}, how about sharing your\\l",
+      "wisdom with me every so often?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{KUN}",
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 459,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 40,
+    "id": "gText_ApprenticeRejectTeaching5",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, but, please?\\nA guy like me needs someone like\\lyou, {PLAYER}{KUN}!\\pHonestly, I need your advice!$",
+    "english_lines": [
+      "Oh, but, please?\\n",
+      "A guy like me needs someone like\\l",
+      "you, {PLAYER}{KUN}!\\p",
+      "Honestly, I need your advice!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{KUN}",
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 103,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 41,
+    "id": "gText_ApprenticeWhichLevelMode5",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Thank you! That's more like it!\\nSo, let's start with an easy one!\\pYou know about the BATTLE TOWER's\\ntwo courses, right?\\lYou know, Level 50 and Open Level.\\pMe being a busy guy, which one should\\nI gear up for?$",
+    "english_lines": [
+      "Thank you! That's more like it!\\n",
+      "So, let's start with an easy one!\\p",
+      "You know about the BATTLE TOWER's\\n",
+      "two courses, right?\\l",
+      "You know, Level 50 and Open Level.\\p",
+      "Me being a busy guy, which one should\\n",
+      "I gear up for?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 214,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 42,
+    "id": "gText_ApprenticeLevelModeThanks5",
+    "archivo": "data/text/apprentice.inc",
+    "english": "{STR_VAR_1}, huh? Okay, gotcha.\\nI'll find time somehow and give it a go!\\p…Whoops, I'd better go to work!\\nThanks! See you around!$",
+    "english_lines": [
+      "{STR_VAR_1}, huh? Okay, gotcha.\\n",
+      "I'll find time somehow and give it a go!\\p",
+      "…Whoops, I'd better go to work!\\n",
+      "Thanks! See you around!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 132,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 43,
+    "id": "gText_ApprenticePleaseTeach6",
+    "archivo": "data/text/apprentice.inc",
+    "english": "No way! Uh-uh!\\nAre you maybe the real {PLAYER}?\\pA-hah! Awesome! I'm {STR_VAR_1},\\nso pleased to meet you!\\p{PLAYER}, you're very strong,\\naren't you?\\pEveryone's talking about you!\\pOh! I just had this great idea!\\nI'll get advice off you, {PLAYER}!\\lI'm sure it will make me tougher!\\pIsn't it a great idea?\\nPlease, I want your advice!$",
+    "english_lines": [
+      "No way! Uh-uh!\\n",
+      "Are you maybe the real {PLAYER}?\\p",
+      "A-hah! Awesome! I'm {STR_VAR_1},\\n",
+      "so pleased to meet you!\\p",
+      "{PLAYER}, you're very strong,\\n",
+      "aren't you?\\p",
+      "Everyone's talking about you!\\p",
+      "Oh! I just had this great idea!\\n",
+      "I'll get advice off you, {PLAYER}!\\l",
+      "I'm sure it will make me tougher!\\p",
+      "Isn't it a great idea?\\n",
+      "Please, I want your advice!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 340,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 44,
+    "id": "gText_ApprenticeRejectTeaching6",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Ahahaha, you can pretend to be mean,\\nbut you can't fool me!\\lYou really mean okay, don't you?$",
+    "english_lines": [
+      "Ahahaha, you can pretend to be mean,\\n",
+      "but you can't fool me!\\l",
+      "You really mean okay, don't you?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n"
+    ],
+    "english_length": 95,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 45,
+    "id": "gText_ApprenticeWhichLevelMode6",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Yay! I knew you'd have a big heart,\\n{PLAYER}!\\pWhat should I ask you first?\\n…Oh, I thought of something!\\pDrum roll, please!\\nThe question I have is…\\pIf I were to take a BATTLE TOWER\\nchallenge, which way should I go?\\pLevel 50 or Open Level?\\nWhich suits me more?$",
+    "english_lines": [
+      "Yay! I knew you'd have a big heart,\\n",
+      "{PLAYER}!\\p",
+      "What should I ask you first?\\n",
+      "…Oh, I thought of something!\\p",
+      "Drum roll, please!\\n",
+      "The question I have is…\\p",
+      "If I were to take a BATTLE TOWER\\n",
+      "challenge, which way should I go?\\p",
+      "Level 50 or Open Level?\\n",
+      "Which suits me more?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 268,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 46,
+    "id": "gText_ApprenticeLevelModeThanks6",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh-oh-oh!\\n{STR_VAR_1}, you say!\\lThank you for a totally cool reply!\\pI guess that's about all I wanted\\nto ask you today.\\pLet's meet here again, okay?\\nThanks!$",
+    "english_lines": [
+      "Oh-oh-oh!\\n",
+      "{STR_VAR_1}, you say!\\l",
+      "Thank you for a totally cool reply!\\p",
+      "I guess that's about all I wanted\\n",
+      "to ask you today.\\p",
+      "Let's meet here again, okay?\\n",
+      "Thanks!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 163,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 47,
+    "id": "gText_ApprenticePleaseTeach7",
+    "archivo": "data/text/apprentice.inc",
+    "english": "I beg your pardon, but…\\nAre you {PLAYER}?\\pI'm {STR_VAR_1}, and I am delighted to\\nmake your acquaintance.\\pI have long been an admirer\\nof yours…\\p… … … … … …\\pUm… I hope you don't find this\\nrequest too much of a burden, but…\\pMay I become your apprentice,\\n{PLAYER}?$",
+    "english_lines": [
+      "I beg your pardon, but…\\n",
+      "Are you {PLAYER}?\\p",
+      "I'm {STR_VAR_1}, and I am delighted to\\n",
+      "make your acquaintance.\\p",
+      "I have long been an admirer\\n",
+      "of yours…\\p",
+      "… … … … … …\\p",
+      "Um… I hope you don't find this\\n",
+      "request too much of a burden, but…\\p",
+      "May I become your apprentice,\\n",
+      "{PLAYER}?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 271,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 48,
+    "id": "gText_ApprenticeRejectTeaching7",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh…!\\p… … … … … …\\n… … … … … …\\p…I must have fainted from shock.\\nI'm sorry, I must have misheard you.\\pPlease! Please say that you will\\naccept me as your apprentice!$",
+    "english_lines": [
+      "Oh…!\\p",
+      "… … … … … …\\n",
+      "… … … … … …\\p",
+      "…I must have fainted from shock.\\n",
+      "I'm sorry, I must have misheard you.\\p",
+      "Please! Please say that you will\\n",
+      "accept me as your apprentice!$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 168,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 49,
+    "id": "gText_ApprenticeWhichLevelMode7",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh… I'm delighted!\\pI don't wish to waste your time,\\nso please advise me on this.\\pI plan to take a BATTLE TOWER\\nchallenge soon.\\pHowever, there are two levels…\\pWhich would be most suitable for me?\\nLevel 50 or Open Level?$",
+    "english_lines": [
+      "Oh… I'm delighted!\\p",
+      "I don't wish to waste your time,\\n",
+      "so please advise me on this.\\p",
+      "I plan to take a BATTLE TOWER\\n",
+      "challenge soon.\\p",
+      "However, there are two levels…\\p",
+      "Which would be most suitable for me?\\n",
+      "Level 50 or Open Level?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 226,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 50,
+    "id": "gText_ApprenticeLevelModeThanks7",
+    "archivo": "data/text/apprentice.inc",
+    "english": "{STR_VAR_1} is your choice!\\nI see. I will do my best!\\pThank you, {PLAYER}.\\nI hope I can count on you again.\\lPlease take care!$",
+    "english_lines": [
+      "{STR_VAR_1} is your choice!\\n",
+      "I see. I will do my best!\\p",
+      "Thank you, {PLAYER}.\\n",
+      "I hope I can count on you again.\\l",
+      "Please take care!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 130,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 51,
+    "id": "gText_ApprenticePleaseTeach8",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Eek! Eek! {PLAYER}!\\nYou spoke to me!\\lI… I'm overjoyed!\\pMe! My name is {STR_VAR_1}!\\nI just became a TRAINER!\\pI'm delighted I met you, {PLAYER},\\nthe big name in POKéMON circles!\\pOh-oh-oh, I know!\\nMay I ask a huge favor, {PLAYER}?\\pPlease take me in as your apprentice!\\nI want to learn from you!$",
+    "english_lines": [
+      "Eek! Eek! {PLAYER}!\\n",
+      "You spoke to me!\\l",
+      "I… I'm overjoyed!\\p",
+      "Me! My name is {STR_VAR_1}!\\n",
+      "I just became a TRAINER!\\p",
+      "I'm delighted I met you, {PLAYER},\\n",
+      "the big name in POKéMON circles!\\p",
+      "Oh-oh-oh, I know!\\n",
+      "May I ask a huge favor, {PLAYER}?\\p",
+      "Please take me in as your apprentice!\\n",
+      "I want to learn from you!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 302,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 52,
+    "id": "gText_ApprenticeRejectTeaching8",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Waaaah!\\n{PLAYER} turned me down…\\lIt… It's an invaluable experience!\\p{PLAYER}, please! I want to hear\\nan affirmative answer this time!\\pI beg you for your guidance!$",
+    "english_lines": [
+      "Waaaah!\\n",
+      "{PLAYER} turned me down…\\l",
+      "It… It's an invaluable experience!\\p",
+      "{PLAYER}, please! I want to hear\\n",
+      "an affirmative answer this time!\\p",
+      "I beg you for your guidance!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 168,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 53,
+    "id": "gText_ApprenticeWhichLevelMode8",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Hieeeeh! {PLAYER} said yes!\\n{PLAYER} said yes!\\pI won't be able to sleep tonight…\\nThank you ever so much!\\pThen, here's my question!\\pAt the BATTLE TOWER, what is right\\nfor me, Level 50 or Open Level?$",
+    "english_lines": [
+      "Hieeeeh! {PLAYER} said yes!\\n",
+      "{PLAYER} said yes!\\p",
+      "I won't be able to sleep tonight…\\n",
+      "Thank you ever so much!\\p",
+      "Then, here's my question!\\p",
+      "At the BATTLE TOWER, what is right\\n",
+      "for me, Level 50 or Open Level?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 204,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 54,
+    "id": "gText_ApprenticeLevelModeThanks8",
+    "archivo": "data/text/apprentice.inc",
+    "english": "{STR_VAR_1}! Perfectly understood!\\nI understand perfectly!\\lI'm deliriously delighted!\\pI hope you'll be willing to teach me\\nsome more another time.$",
+    "english_lines": [
+      "{STR_VAR_1}! Perfectly understood!\\n",
+      "I understand perfectly!\\l",
+      "I'm deliriously delighted!\\p",
+      "I hope you'll be willing to teach me\\n",
+      "some more another time.$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 151,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 55,
+    "id": "gText_ApprenticePleaseTeach9",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Whoa! Could you be…\\nMight you be… {PLAYER}{KUN}?!\\lThat strong and famous TRAINER?\\lWell, hello, aren't I just the luckiest!\\pHello, the name's {STR_VAR_1}!\\pI've been on the lookout for\\na POKéMON teacher.\\pAnd with impeccably good timing,\\nalong came you, {PLAYER}{KUN}!\\pSo, there you have it, {PLAYER}{KUN}!\\nLet me apprentice under you!$",
+    "english_lines": [
+      "Whoa! Could you be…\\n",
+      "Might you be… {PLAYER}{KUN}?!\\l",
+      "That strong and famous TRAINER?\\l",
+      "Well, hello, aren't I just the luckiest!\\p",
+      "Hello, the name's {STR_VAR_1}!\\p",
+      "I've been on the lookout for\\n",
+      "a POKéMON teacher.\\p",
+      "And with impeccably good timing,\\n",
+      "along came you, {PLAYER}{KUN}!\\p",
+      "So, there you have it, {PLAYER}{KUN}!\\n",
+      "Let me apprentice under you!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{KUN}",
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 343,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 56,
+    "id": "gText_ApprenticeRejectTeaching9",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Gwaaaah!\\nYou're quite cool and tough…\\pDon't be that way, please.\\nI'm asking you!$",
+    "english_lines": [
+      "Gwaaaah!\\n",
+      "You're quite cool and tough…\\p",
+      "Don't be that way, please.\\n",
+      "I'm asking you!$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 84,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 57,
+    "id": "gText_ApprenticeWhichLevelMode9",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, yeah! That's a solid reply!\\nExcellent, I might add!\\pSo how about a first piece of advice\\non the BATTLE TOWER?\\pIf I were to go, what would be better?\\nLevel 50 or Open Level?$",
+    "english_lines": [
+      "Oh, yeah! That's a solid reply!\\n",
+      "Excellent, I might add!\\p",
+      "So how about a first piece of advice\\n",
+      "on the BATTLE TOWER?\\p",
+      "If I were to go, what would be better?\\n",
+      "Level 50 or Open Level?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 182,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 58,
+    "id": "gText_ApprenticeLevelModeThanks9",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Uh-huh, {STR_VAR_1} it is!\\nOK, A-OK!\\lI'll go show my mettle, like, jam!\\pAll right, I'll look to you as my mentor!\\nAdios!$",
+    "english_lines": [
+      "Uh-huh, {STR_VAR_1} it is!\\n",
+      "OK, A-OK!\\l",
+      "I'll go show my mettle, like, jam!\\p",
+      "All right, I'll look to you as my mentor!\\n",
+      "Adios!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 125,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 59,
+    "id": "gText_ApprenticePleaseTeach10",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, hey, {PLAYER}{KUN}, right?\\nThe police were looking for you!\\p… … …\\nOf course I'm lying!\\pMe, I'm {STR_VAR_1}. Despite the way\\nI look, I'm the POKéMON CHAMPION!\\l…That's a lie, too!\\pThis is no lie, though.\\nI'm not very good at battling.\\pSo, how about you becoming my master\\nabout all things POKéMON?$",
+    "english_lines": [
+      "Oh, hey, {PLAYER}{KUN}, right?\\n",
+      "The police were looking for you!\\p",
+      "… … …\\n",
+      "Of course I'm lying!\\p",
+      "Me, I'm {STR_VAR_1}. Despite the way\\n",
+      "I look, I'm the POKéMON CHAMPION!\\l",
+      "…That's a lie, too!\\p",
+      "This is no lie, though.\\n",
+      "I'm not very good at battling.\\p",
+      "So, how about you becoming my master\\n",
+      "about all things POKéMON?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{KUN}",
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 310,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 60,
+    "id": "gText_ApprenticeRejectTeaching10",
+    "archivo": "data/text/apprentice.inc",
+    "english": "If you're going to act cold like that,\\nI'll show you what I'll do!\\pWaaah! Waaah! Waaah!\\nHiccup!\\pHahaha, that was my FAKE TEARS!\\pCome on, will you please be\\nmy POKéMON master?$",
+    "english_lines": [
+      "If you're going to act cold like that,\\n",
+      "I'll show you what I'll do!\\p",
+      "Waaah! Waaah! Waaah!\\n",
+      "Hiccup!\\p",
+      "Hahaha, that was my FAKE TEARS!\\p",
+      "Come on, will you please be\\n",
+      "my POKéMON master?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 181,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 61,
+    "id": "gText_ApprenticeWhichLevelMode10",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Yippee!\\nI'll buy you a boat for that!\\pOf course I'm lying again!\\nBut… Thank you, master!\\pYou know how there's Level 50 and\\nOpen Level at the BATTLE TOWER?\\pI'm having trouble deciding which\\nlevel I should challenge…\\pCan you decide for me, master?$",
+    "english_lines": [
+      "Yippee!\\n",
+      "I'll buy you a boat for that!\\p",
+      "Of course I'm lying again!\\n",
+      "But… Thank you, master!\\p",
+      "You know how there's Level 50 and\\n",
+      "Open Level at the BATTLE TOWER?\\p",
+      "I'm having trouble deciding which\\n",
+      "level I should challenge…\\p",
+      "Can you decide for me, master?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 254,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 62,
+    "id": "gText_ApprenticeLevelModeThanks10",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Okay, so {STR_VAR_1} is better!\\nI'll go to the other level, then!\\pJust kidding!\\nI'll obey your teaching, master!\\pThanks, master!\\nI hope you'll keep teaching me!$",
+    "english_lines": [
+      "Okay, so {STR_VAR_1} is better!\\n",
+      "I'll go to the other level, then!\\p",
+      "Just kidding!\\n",
+      "I'll obey your teaching, master!\\p",
+      "Thanks, master!\\n",
+      "I hope you'll keep teaching me!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 166,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 63,
+    "id": "gText_ApprenticePleaseTeach11",
+    "archivo": "data/text/apprentice.inc",
+    "english": "A-H-O-Y!\\nAnd that spells ahoy, and it means hi!\\pI'm {STR_VAR_1}, the rappin' SAILOR\\nam I!\\pYour turn now, tell me a little about\\nyourself, give it a try!\\pUh-huh, uh-huh!\\n{PLAYER}{KUN}'s your name,\\land POKéMON's your game!\\pAnd you're at a delicate age\\nwhen all the world's your stage!\\pAnyway, I just want to say,\\nthat you're the tenth TRAINER\\lI've spoken to today.\\pLet's make that a celebration!\\nBecome my mentor for commemoration!$",
+    "english_lines": [
+      "A-H-O-Y!\\n",
+      "And that spells ahoy, and it means hi!\\p",
+      "I'm {STR_VAR_1}, the rappin' SAILOR\\n",
+      "am I!\\p",
+      "Your turn now, tell me a little about\\n",
+      "yourself, give it a try!\\p",
+      "Uh-huh, uh-huh!\\n",
+      "{PLAYER}{KUN}'s your name,\\l",
+      "and POKéMON's your game!\\p",
+      "And you're at a delicate age\\n",
+      "when all the world's your stage!\\p",
+      "Anyway, I just want to say,\\n",
+      "that you're the tenth TRAINER\\l",
+      "I've spoken to today.\\p",
+      "Let's make that a celebration!\\n",
+      "Become my mentor for commemoration!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{KUN}",
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 445,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 64,
+    "id": "gText_ApprenticeRejectTeaching11",
+    "archivo": "data/text/apprentice.inc",
+    "english": "But!\\nYou have to work with me!\\pDon't be such a tease!\\nBecome my mentor, please!$",
+    "english_lines": [
+      "But!\\n",
+      "You have to work with me!\\p",
+      "Don't be such a tease!\\n",
+      "Become my mentor, please!$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 83,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 65,
+    "id": "gText_ApprenticeWhichLevelMode11",
+    "archivo": "data/text/apprentice.inc",
+    "english": "That's it!\\n{PLAYER}, you've got the spirit!\\pSo here's my first question\\nthat begs your suggestion!\\pIt's about the BATTLE TOWER,\\nand it hinges on my power!\\pLevel 50 and Open Level there be,\\nwhich is the one that's good for me?$",
+    "english_lines": [
+      "That's it!\\n",
+      "{PLAYER}, you've got the spirit!\\p",
+      "So here's my first question\\n",
+      "that begs your suggestion!\\p",
+      "It's about the BATTLE TOWER,\\n",
+      "and it hinges on my power!\\p",
+      "Level 50 and Open Level there be,\\n",
+      "which is the one that's good for me?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 233,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 66,
+    "id": "gText_ApprenticeLevelModeThanks11",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Okay, {STR_VAR_1} it is, you say!\\nI'll go and take it on my way!\\pIf it's advice I ever need,\\n{PLAYER}, your word I'll always heed!$",
+    "english_lines": [
+      "Okay, {STR_VAR_1} it is, you say!\\n",
+      "I'll go and take it on my way!\\p",
+      "If it's advice I ever need,\\n",
+      "{PLAYER}, your word I'll always heed!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 134,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 67,
+    "id": "gText_ApprenticePleaseTeach12",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Say, hey, aren't you {PLAYER}?\\nWhat should I do? Talk to you?\\lWhy not? I'm already talking to you!\\p{PLAYER}, are you surprised at me?\\nI'd better tell you who I happen to be!\\p{STR_VAR_1} is what you can call me.\\nThe brightest star in guitardom,\\lthat's me!\\pAre you receiving me?\\nYou are receiving me!\\pMy luck's at its best,\\nI'll hit you with a request!\\p{PLAYER}, let me be your underling!\\nI want you to teach me everything!$",
+    "english_lines": [
+      "Say, hey, aren't you {PLAYER}?\\n",
+      "What should I do? Talk to you?\\l",
+      "Why not? I'm already talking to you!\\p",
+      "{PLAYER}, are you surprised at me?\\n",
+      "I'd better tell you who I happen to be!\\p",
+      "{STR_VAR_1} is what you can call me.\\n",
+      "The brightest star in guitardom,\\l",
+      "that's me!\\p",
+      "Are you receiving me?\\n",
+      "You are receiving me!\\p",
+      "My luck's at its best,\\n",
+      "I'll hit you with a request!\\p",
+      "{PLAYER}, let me be your underling!\\n",
+      "I want you to teach me everything!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 435,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 68,
+    "id": "gText_ApprenticeRejectTeaching12",
+    "archivo": "data/text/apprentice.inc",
+    "english": "You're turning me down, then?\\nI'll just have to ask you again!\\p{PLAYER}, I beg to be your underling!\\nI need you to teach me everything!$",
+    "english_lines": [
+      "You're turning me down, then?\\n",
+      "I'll just have to ask you again!\\p",
+      "{PLAYER}, I beg to be your underling!\\n",
+      "I need you to teach me everything!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 139,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 69,
+    "id": "gText_ApprenticeWhichLevelMode12",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Lucky, yeah, woohoo!\\nShould I pop a question to you?\\pSince we're near the BATTLE TOWER,\\nhow about a question about its power?\\pOf the choices you see,\\nwhich is the right one for me?$",
+    "english_lines": [
+      "Lucky, yeah, woohoo!\\n",
+      "Should I pop a question to you?\\p",
+      "Since we're near the BATTLE TOWER,\\n",
+      "how about a question about its power?\\p",
+      "Of the choices you see,\\n",
+      "which is the right one for me?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 186,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 70,
+    "id": "gText_ApprenticeLevelModeThanks12",
+    "archivo": "data/text/apprentice.inc",
+    "english": "If {STR_VAR_1} is what you suggest,\\nit must be the very best!\\pWell, {PLAYER}, I have to roam free,\\nbut don't you forget about me.\\pSee you again, my smart friend!$",
+    "english_lines": [
+      "If {STR_VAR_1} is what you suggest,\\n",
+      "it must be the very best!\\p",
+      "Well, {PLAYER}, I have to roam free,\\n",
+      "but don't you forget about me.\\p",
+      "See you again, my smart friend!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 166,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 71,
+    "id": "gText_ApprenticePleaseTeach13",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, hi! You there!\\nCan I get you to massage my shoulder?\\p…Yes, there! That's it!\\nOuch, ouch! Oooh, that feels great!\\pMy name's {STR_VAR_1}.\\nI take karate training, but my body's\\lnot built to take the abuse…\\pI decided I'll battle POKéMON and\\ntoughen myself up.\\pYou're {PLAYER}{KUN}, aren't you?\\nThe POKéMON LEAGUE CHAMP?\\pListen, can I get you to give me\\nadvice?$",
+    "english_lines": [
+      "Oh, hi! You there!\\n",
+      "Can I get you to massage my shoulder?\\p",
+      "…Yes, there! That's it!\\n",
+      "Ouch, ouch! Oooh, that feels great!\\p",
+      "My name's {STR_VAR_1}.\\n",
+      "I take karate training, but my body's\\l",
+      "not built to take the abuse…\\p",
+      "I decided I'll battle POKéMON and\\n",
+      "toughen myself up.\\p",
+      "You're {PLAYER}{KUN}, aren't you?\\n",
+      "The POKéMON LEAGUE CHAMP?\\p",
+      "Listen, can I get you to give me\\n",
+      "advice?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{KUN}",
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 373,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 72,
+    "id": "gText_ApprenticeRejectTeaching13",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, why?\\pI won't be a big bother, I promise!\\nPlease?$",
+    "english_lines": [
+      "Oh, why?\\p",
+      "I won't be a big bother, I promise!\\n",
+      "Please?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 55,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 73,
+    "id": "gText_ApprenticeWhichLevelMode13",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Thank you. Mighty good of you!\\n…Cough! Cough!\\pOogh, I have to toughen up quick…\\pI'll be heading off to the BATTLE TOWER\\nright away, but what would be better\\lfor me? Level 50 or Open Level?$",
+    "english_lines": [
+      "Thank you. Mighty good of you!\\n",
+      "…Cough! Cough!\\p",
+      "Oogh, I have to toughen up quick…\\p",
+      "I'll be heading off to the BATTLE TOWER\\n",
+      "right away, but what would be better\\l",
+      "for me? Level 50 or Open Level?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 194,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 74,
+    "id": "gText_ApprenticeLevelModeThanks13",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Hm, all right. That's {STR_VAR_1}.\\nI'll go there right away.\\pI hope I can keep hitting you up for\\nhelp--after all, you're my mentor!$",
+    "english_lines": [
+      "Hm, all right. That's {STR_VAR_1}.\\n",
+      "I'll go there right away.\\p",
+      "I hope I can keep hitting you up for\\n",
+      "help--after all, you're my mentor!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 136,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 75,
+    "id": "gText_ApprenticePleaseTeach14",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Er… Um…\\n{PLAYER}{KUN}…?\\pPlease, don't look at me that way.\\nYou're making me all self-conscious.\\pI… I'm {STR_VAR_1}.\\pI'm really embarrassed to say this,\\nbut I explore ancient ruins and such.\\pI'm even more embarrassed to admit\\nI'm interested in the BATTLE FRONTIER.\\p{PLAYER}{KUN}, you have a reputation as\\na tough TRAINER…\\pIt's hard for me to say this,\\nbut I want to ask something.\\pCould you become my teacher and\\ngive me advice?$",
+    "english_lines": [
+      "Er… Um…\\n",
+      "{PLAYER}{KUN}…?\\p",
+      "Please, don't look at me that way.\\n",
+      "You're making me all self-conscious.\\p",
+      "I… I'm {STR_VAR_1}.\\p",
+      "I'm really embarrassed to say this,\\n",
+      "but I explore ancient ruins and such.\\p",
+      "I'm even more embarrassed to admit\\n",
+      "I'm interested in the BATTLE FRONTIER.\\p",
+      "{PLAYER}{KUN}, you have a reputation as\\n",
+      "a tough TRAINER…\\p",
+      "It's hard for me to say this,\\n",
+      "but I want to ask something.\\p",
+      "Could you become my teacher and\\n",
+      "give me advice?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{KUN}",
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 442,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 76,
+    "id": "gText_ApprenticeRejectTeaching14",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Please don't brush me off like this!\\nI can't live with the humiliation.\\pPlease become my teacher!\\nI need your advice!$",
+    "english_lines": [
+      "Please don't brush me off like this!\\n",
+      "I can't live with the humiliation.\\p",
+      "Please become my teacher!\\n",
+      "I need your advice!$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 121,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 77,
+    "id": "gText_ApprenticeWhichLevelMode14",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Th-thank you…\\pBut please don't look at me like that.\\nIt makes me all flustered.\\pPlease, answer me without looking\\nat my eyes.\\pAt the BATTLE TOWER…\\nWhich level should I attempt?$",
+    "english_lines": [
+      "Th-thank you…\\p",
+      "But please don't look at me like that.\\n",
+      "It makes me all flustered.\\p",
+      "Please, answer me without looking\\n",
+      "at my eyes.\\p",
+      "At the BATTLE TOWER…\\n",
+      "Which level should I attempt?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 183,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 78,
+    "id": "gText_ApprenticeLevelModeThanks14",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh… Okay!\\nI'll try my hand at that.\\pI hope I can make a valiant challenge\\nwithout getting all flustered…\\pThank you, {PLAYER}{KUN}.\\nIf we meet again, I hope you will be\\las helpful.$",
+    "english_lines": [
+      "Oh… Okay!\\n",
+      "I'll try my hand at that.\\p",
+      "I hope I can make a valiant challenge\\n",
+      "without getting all flustered…\\p",
+      "Thank you, {PLAYER}{KUN}.\\n",
+      "If we meet again, I hope you will be\\l",
+      "as helpful.$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{KUN}",
+      "{PLAYER}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 186,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 79,
+    "id": "gText_ApprenticePleaseTeach15",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Hm? You appear to be {PLAYER}{KUN}…\\nBut are you really real?\\pYou may call me {STR_VAR_1}.\\pI have been toying with the idea of\\napprenticing under a strong TRAINER.\\pSo, I must say I'm lucky you came along!\\n…You really are {PLAYER}{KUN}, yes?\\pNo, no, if you are real, it's fine.\\nI merely want you to recognize me\\las your apprentice.$",
+    "english_lines": [
+      "Hm? You appear to be {PLAYER}{KUN}…\\n",
+      "But are you really real?\\p",
+      "You may call me {STR_VAR_1}.\\p",
+      "I have been toying with the idea of\\n",
+      "apprenticing under a strong TRAINER.\\p",
+      "So, I must say I'm lucky you came along!\\n",
+      "…You really are {PLAYER}{KUN}, yes?\\p",
+      "No, no, if you are real, it's fine.\\n",
+      "I merely want you to recognize me\\l",
+      "as your apprentice.$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{KUN}",
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 339,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 80,
+    "id": "gText_ApprenticeRejectTeaching15",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh?\\nBut what would compel you to refuse?\\pI apologize for being skeptical about\\nyour identity.\\pPlease accept my apology and\\naccept me as your apprentice.$",
+    "english_lines": [
+      "Oh?\\n",
+      "But what would compel you to refuse?\\p",
+      "I apologize for being skeptical about\\n",
+      "your identity.\\p",
+      "Please accept my apology and\\n",
+      "accept me as your apprentice.$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 158,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 81,
+    "id": "gText_ApprenticeWhichLevelMode15",
+    "archivo": "data/text/apprentice.inc",
+    "english": "You really are accepting me?\\nI don't wish to celebrate prematurely.\\pIf it is true, I apologize.\\nBut now, I need your advice.\\pIf I were to enter the BATTLE TOWER,\\nwhat would be worthy of me?\\lLevel 50 or Open Level?$",
+    "english_lines": [
+      "You really are accepting me?\\n",
+      "I don't wish to celebrate prematurely.\\p",
+      "If it is true, I apologize.\\n",
+      "But now, I need your advice.\\p",
+      "If I were to enter the BATTLE TOWER,\\n",
+      "what would be worthy of me?\\l",
+      "Level 50 or Open Level?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 220,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 82,
+    "id": "gText_ApprenticeLevelModeThanks15",
+    "archivo": "data/text/apprentice.inc",
+    "english": "{STR_VAR_1}?\\nAre you certain?\\pI see. If that's the case, that's fine.\\nI thank you for your time.\\pI realize I can annoy, but it delights\\nme that you have accepted me.\\pLet us meet again!$",
+    "english_lines": [
+      "{STR_VAR_1}?\\n",
+      "Are you certain?\\p",
+      "I see. If that's the case, that's fine.\\n",
+      "I thank you for your time.\\p",
+      "I realize I can annoy, but it delights\\n",
+      "me that you have accepted me.\\p",
+      "Let us meet again!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 191,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 83,
+    "id": "gText_ApprenticeWhatHeldItem0",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Sigh… Sob…\\nOh, {PLAYER}!\\pI'm all tangled up in a dilemma\\nthat I can't decide.\\pI can't decide what I should make\\nmy {STR_VAR_1} hold.\\pPlease tell me, {PLAYER}.\\nWhat item should I make it hold?$",
+    "english_lines": [
+      "Sigh… Sob…\\n",
+      "Oh, {PLAYER}!\\p",
+      "I'm all tangled up in a dilemma\\n",
+      "that I can't decide.\\p",
+      "I can't decide what I should make\\n",
+      "my {STR_VAR_1} hold.\\p",
+      "Please tell me, {PLAYER}.\\n",
+      "What item should I make it hold?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 199,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 84,
+    "id": "gText_ApprenticeHoldNothing0",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, really? I shouldn't make\\nmy {STR_VAR_1} hold anything?$",
+    "english_lines": [
+      "Oh, really? I shouldn't make\\n",
+      "my {STR_VAR_1} hold anything?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 60,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 85,
+    "id": "gText_ApprenticeThanksNoHeldItem0",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, okay! I'm delighted it's settled!\\nAwesome! Wicked! Awoooh!\\pThank you so much!$",
+    "english_lines": [
+      "Oh, okay! I'm delighted it's settled!\\n",
+      "Awesome! Wicked! Awoooh!\\p",
+      "Thank you so much!$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 84,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 86,
+    "id": "gText_ApprenticeThanksHeldItem0",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, I'm so glad…\\nI think I have that {STR_VAR_1}, too.\\pI'm delighted it's settled!\\nAwesome! Wicked! Awoooh!\\pThank you so much!$",
+    "english_lines": [
+      "Oh, I'm so glad…\\n",
+      "I think I have that {STR_VAR_1}, too.\\p",
+      "I'm delighted it's settled!\\n",
+      "Awesome! Wicked! Awoooh!\\p",
+      "Thank you so much!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 131,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 87,
+    "id": "gText_ApprenticeItemAlreadyRecommended0",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Waaaah! Please don't be mean!\\pThat item {STR_VAR_1} was already\\nrecommended to me before, sob…\\pOr do you mean I shouldn't make\\nmy {STR_VAR_2} hold anything?$",
+    "english_lines": [
+      "Waaaah! Please don't be mean!\\p",
+      "That item {STR_VAR_1} was already\\n",
+      "recommended to me before, sob…\\p",
+      "Or do you mean I shouldn't make\\n",
+      "my {STR_VAR_2} hold anything?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 161,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 88,
+    "id": "gText_ApprenticeWhatHeldItem1",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Yay! It's {PLAYER}!\\nGreat! I wanted to ask you something!\\pDo you make your POKéMON hold items?\\nI want to make mine hold items, but…\\pWhat item would be good for\\n{STR_VAR_1} to hold?\\pWhat do you think?$",
+    "english_lines": [
+      "Yay! It's {PLAYER}!\\n",
+      "Great! I wanted to ask you something!\\p",
+      "Do you make your POKéMON hold items?\\n",
+      "I want to make mine hold items, but…\\p",
+      "What item would be good for\\n",
+      "{STR_VAR_1} to hold?\\p",
+      "What do you think?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 206,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 89,
+    "id": "gText_ApprenticeHoldNothing1",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Huh? You mean my {STR_VAR_1} doesn't\\nhave to hold anything?$",
+    "english_lines": [
+      "Huh? You mean my {STR_VAR_1} doesn't\\n",
+      "have to hold anything?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 61,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 90,
+    "id": "gText_ApprenticeThanksNoHeldItem1",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, I get it! I'll do that!\\nThanks for teaching me!$",
+    "english_lines": [
+      "Oh, I get it! I'll do that!\\n",
+      "Thanks for teaching me!$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 53,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 91,
+    "id": "gText_ApprenticeThanksHeldItem1",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, wow! One {STR_VAR_1}, huh?\\nOkay, I'll do that!\\pThanks for teaching me!$",
+    "english_lines": [
+      "Oh, wow! One {STR_VAR_1}, huh?\\n",
+      "Okay, I'll do that!\\p",
+      "Thanks for teaching me!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 77,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 92,
+    "id": "gText_ApprenticeItemAlreadyRecommended1",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, uh, no, that's not what I meant.\\nI want to know about a different item\\lthan the ones I already know.\\pOr do you mean that my POKéMON doesn't\\nhave to hold anything this time?$",
+    "english_lines": [
+      "Oh, uh, no, that's not what I meant.\\n",
+      "I want to know about a different item\\l",
+      "than the ones I already know.\\p",
+      "Or do you mean that my POKéMON doesn't\\n",
+      "have to hold anything this time?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 181,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 93,
+    "id": "gText_ApprenticeWhatHeldItem2",
+    "archivo": "data/text/apprentice.inc",
+    "english": "{PLAYER}, hello!\\nIt's about my {STR_VAR_1}…\\pI want to make it hold a good item.\\nWhat would be good for it?$",
+    "english_lines": [
+      "{PLAYER}, hello!\\n",
+      "It's about my {STR_VAR_1}…\\p",
+      "I want to make it hold a good item.\\n",
+      "What would be good for it?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 110,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 94,
+    "id": "gText_ApprenticeHoldNothing2",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, then my {STR_VAR_1} doesn't have\\nto hold anything?$",
+    "english_lines": [
+      "Oh, then my {STR_VAR_1} doesn't have\\n",
+      "to hold anything?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 56,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 95,
+    "id": "gText_ApprenticeThanksNoHeldItem2",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Okay, I got it!\\nSee you again!$",
+    "english_lines": [
+      "Okay, I got it!\\n",
+      "See you again!$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 32,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 96,
+    "id": "gText_ApprenticeThanksHeldItem2",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Oh, the item {STR_VAR_1}?\\nUnderstood!\\pI'll do my best to find one!\\nSee you again!$",
+    "english_lines": [
+      "Oh, the item {STR_VAR_1}?\\n",
+      "Understood!\\p",
+      "I'll do my best to find one!\\n",
+      "See you again!$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 85,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 97,
+    "id": "gText_ApprenticeItemAlreadyRecommended2",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Somebody taught me about\\nthe {STR_VAR_1} already.\\pI want my POKéMON to hold a different\\nkind of item.\\pOr do you think {STR_VAR_2} doesn't\\nhave to hold anything?$",
+    "english_lines": [
+      "Somebody taught me about\\n",
+      "the {STR_VAR_1} already.\\p",
+      "I want my POKéMON to hold a different\\n",
+      "kind of item.\\p",
+      "Or do you think {STR_VAR_2} doesn't\\n",
+      "have to hold anything?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{STR_VAR_1}",
+      "{STR_VAR_2}"
+    ],
+    "control_codes": [
+      "$",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 166,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 98,
+    "id": "gText_ApprenticeWhatHeldItem3",
+    "archivo": "data/text/apprentice.inc",
+    "english": "Hello, {PLAYER}…\\nI'm sorry to disturb you, but I have\\lsomething else I wanted to ask you.\\pI don't think I'm good enough to win\\nmatches on my own, so I'm thinking of\\lmaking my {STR_VAR_1} hold an item.\\pBut I don't know what would be good.\\p{PLAYER}, please, could you decide\\nfor me?$",
+    "english_lines": [
+      "Hello, {PLAYER}…\\n",
+      "I'm sorry to disturb you, but I have\\l",
+      "something else I wanted to ask you.\\p",
+      "I don't think I'm good enough to win\\n",
+      "matches on my own, so I'm thinking of\\l",
+      "making my {STR_VAR_1} hold an item.\\p",
+      "But I don't know what would be good.\\p",
+      "{PLAYER}, please, could you decide\\n",
+      "for me?$"
+    ],
+    "spanish": "",
+    "variables": [
+      "{PLAYER}",
+      "{STR_VAR_1}"
+    ],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 289,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 99,
+    "id": "gText_ApprenticeHoldNothing3",
+    "archivo": "data/text/apprentice.inc",
+    "english": "A POKéMON belonging to someone like me\\nwould be better off without an item?$",
+    "english_lines": [
+      "A POKéMON belonging to someone like me\\n",
+      "would be better off without an item?$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\n"
+    ],
+    "english_length": 77,
+    "translated": false,
+    "reviewed": false
+  },
+  {
+    "id_num": 100,
+    "id": "gText_ApprenticeThanksNoHeldItem3",
+    "archivo": "data/text/apprentice.inc",
+    "english": "I understand…\\nYou're saying I shouldn't rely on items.\\lI'll do my best not to!\\pThank you very much!$",
+    "english_lines": [
+      "I understand…\\n",
+      "You're saying I shouldn't rely on items.\\l",
+      "I'll do my best not to!\\p",
+      "Thank you very much!$"
+    ],
+    "spanish": "",
+    "variables": [],
+    "control_codes": [
+      "$",
+      "\\l",
+      "\\n",
+      "\\p"
+    ],
+    "english_length": 103,
+    "translated": false,
+    "reviewed": false
+  }
+]

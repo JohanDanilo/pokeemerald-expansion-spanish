@@ -1,6 +1,6 @@
 gText_ApprenticeChallenge0::
-        .string "Eh... Soy el aprendiz n.º {STR_VAR_2} de {STR_VAR_1}.\n"
-        .string "Haré mi mejor esfuerzo...$"
+	.string "Um, I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\n"
+	.string "Snivel… This tension is getting to me…$"
 
 gText_ApprenticeChallenge1::
 	.string "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\n"
